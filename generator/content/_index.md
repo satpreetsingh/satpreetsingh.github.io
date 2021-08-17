@@ -6,7 +6,7 @@ title = "Satpreet H. Singh"
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-_Summer/Fall 2021: I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles_ 
+_I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles starting Jan 2022_  
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
 Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of ML/RL and Computational Neuroscience.

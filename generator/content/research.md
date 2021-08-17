@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-_Summer/Fall 2021: I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles_ 
+_I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles starting Jan 2022_ 
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
 ## Research
@@ -24,12 +24,13 @@ Abstract: The ability to track odor plumes in dynamic environments is critical f
 
 ![Constant Wind Plume Tracking](/oldparams-cropped.gif)
 
+More animations with tracking and "neural" activity can be seen ![here](https://github.com/BruntonUWBio/plumetracknets)
 
 [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 
 Also presented at:
 * [NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20) 
-* [IROS 2020 Robot inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
+* [IROS 2020 Robot Inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
 
 (Full paper in preparation)
 

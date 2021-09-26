@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-_I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles starting Jan 2022_ 
+_I'm on the job market for postdocs and full-time research roles starting Jan 2022_ 
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
 ## Research
@@ -18,13 +18,25 @@ Current interests:
 * PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 
 * Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
 
-#### Understanding biological plume tracking behavior using deep reinforcement-learning (Ongoing)
+#### Understanding biological plume tracking behavior using deep reinforcement-learning
+<!-- #### Emergent behavior and neural dynamics in artificial agents tracking turbulent plumes -->
+<!-- Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates. This remarkable tracking behavior requires multimodal integration of odor, vision, and wind sensing, is robust to variations in plume statistics and wind speeds, and can often be performed over large distances. Therefore, it is challenging to study in confined experimental settings. Here we describe ongoing work to explore the space of policies effective to accomplish plume tracking, leveraging the reproducibility and interpretability of artificial agents trained in biologically motivated simulations. Specifically, we trained neural-network (NN) agents with deep reinforcement learning to locate the source of a patchy simulated plume, while varying their capacity to store past sensory stimuli. We analyzed the behavior of trained agents by inspecting successful trajectories. We then interrogated the input-output maps learned by the NNs, uncovering interpretable differences in control strategies introduced by varying sensory memory. We believe that our simulation-based approach can generate novel testable hypotheses to guide the development of targeted neuroethological experiments, as well as provide a pathway towards a mechanistic understanding of the key multimodal computations required for plume tracking.
+ -->
 
-Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates. This remarkable tracking behavior requires multimodal integration of odor, vision, and wind sensing, is robust to variations in plume statistics and wind speeds, and can often be performed over large distances. Therefore, it is challenging to study in confined experimental settings. Here we describe ongoing work to explore the space of policies effective to accomplish plume tracking, leveraging the reproducibility and interpretability of artificial agents trained in biologically motivated simulations. Specifically, we trained neural-network (NN) agents with deep reinforcement learning to locate the source of a patchy simulated plume, while varying their capacity to store past sensory stimuli. We analyzed the behavior of trained agents by inspecting successful trajectories. We then interrogated the input-output maps learned by the NNs, uncovering interpretable differences in control strategies introduced by varying sensory memory. We believe that our simulation-based approach can generate novel testable hypotheses to guide the development of targeted neuroethological experiments, as well as provide a pathway towards a mechanistic understanding of the key multimodal computations required for plume tracking.
+Abstract: Tracking a turbulent plume to locate its source is a complex control problem because it requires multi-sensory integration and must be robust to intermittent odors, changing wind direction, and variable plume statistics.
+This task is routinely performed by flying insects, often over long distances, in pursuit of food or mates.
+Several aspects of this remarkable behavior have been studied in detail in many experimental studies. 
+Here, we take a complementary in silico approach, using artificial agents trained with reinforcement learning to develop an integrated understanding of the behaviors and neural computations that support plume tracking.
+Specifically, we use deep reinforcement learning (DRL) to train recurrent neural network (RNN) agents to locate the source of simulated turbulent plumes.
+Interestingly, the agents' emergent behaviors resemble those of flying insects, and the RNNs learn to represent task-relevant variables, such as head direction and time since last odor encounter.
+Our analyses suggest an intriguing experimentally testable hypothesis for tracking plumes in changing wind direction---that agents follow local plume shape rather than the current wind direction.
+While reflexive short-memory behaviors are sufficient for tracking plumes in constant wind, longer timescales of memory are essential for tracking plumes that switch direction.
+At the level of neural dynamics, the RNNs' population activity is low-dimensional and organized into distinct dynamical structures, with some correspondence to behavioral modules.
+Our in silico approach provides key intuitions for turbulent plume tracking strategies and motivates future targeted experimental and theoretical developments. 
 
 ![Constant Wind Plume Tracking](/oldparams-cropped.gif)
 
-More animations with tracking and "neural" activity can be seen ![here](https://github.com/BruntonUWBio/plumetracknets)
+More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 
 [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 

@@ -34,17 +34,21 @@ While reflexive short-memory behaviors are sufficient for tracking plumes in con
 At the level of neural dynamics, the RNNs' population activity is low-dimensional and organized into distinct dynamical structures, with some correspondence to behavioral modules.
 Our in silico approach provides key intuitions for turbulent plume tracking strategies and motivates future targeted experimental and theoretical developments. 
 
-![Constant Wind Plume Tracking](/oldparams-cropped.gif)
+<!-- ![Constant Wind Plume Tracking](/oldparams-cropped.gif) -->
+
+![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
+
+![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4)
 
 More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 
-[Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
+Associated publications
+* [Preprint: "Emergent behavior and neural dynamics in artificial agents tracking turbulent plumes"](https://arxiv.org/abs/2109.12434)
+* [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 
 Also presented at:
 * [NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20) 
 * [IROS 2020 Robot Inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
-
-(Full paper in preparation)
 
 
 #### Mining naturalistic human behaviors in long-term video and neural recordings

@@ -38,7 +38,7 @@ Our in silico approach provides key intuitions for turbulent plume tracking stra
 
 ![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
 
-![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4)
+<!-- ![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4) -->
 
 More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 

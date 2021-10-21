@@ -44,9 +44,12 @@ Our in silico approach provides key intuitions for turbulent plume tracking stra
 
 <!-- ![Constant Wind Plume Tracking](/oldparams-cropped.gif) -->
 
-![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
+<!-- ![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4) -->
 
 <!-- ![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4) -->
+
+[#tweeprint](https://twitter.com/tweetsatpreet/status/1442974225032093698) on this paper:  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/n Excited to share our new preprint where we study turbulent plume tracking using deep reinforcement learning (DRL) trained RNN *agents* and find many intriguing similarities with flying insects. w/ <a href="https://twitter.com/FlorisBreugel?ref_src=twsrc%5Etfw">@FlorisBreugel</a> <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>; <br> <a href="https://twitter.com/hashtag/tweeprint?src=hash&amp;ref_src=twsrc%5Etfw">#tweeprint</a> <a href="https://twitter.com/Flypapers?ref_src=twsrc%5Etfw">@flypapers</a> <a href="https://twitter.com/hashtag/Drosophila?src=hash&amp;ref_src=twsrc%5Etfw">#Drosophila</a> <a href="https://t.co/PdVKxbP0hs">pic.twitter.com/PdVKxbP0hs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1442974225032093698?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 

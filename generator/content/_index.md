@@ -39,6 +39,9 @@ I can be found elsewhere on the web at
 * [r/aww 🐶🐱](https://www.reddit.com/r/aww/)
 
 
+### Updates
+[Research page updated:](/research)
+![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
 
 <!-- ## Research Interest
 

@@ -12,6 +12,7 @@ Current interests include
 * Agents, Equilibria, Reinforcement learning and decision making
 * Applications in Bio, Eco & Health; Cross-pollinating ML/AI with Neuroscience. 
 * Inverse problems in Learning & Control
+* Closed-loop (humans in the loop) Machine Learning systems
 * Self-organization and brain/biology/nature inspired algorithms
 <!-- 
 Current interests: 

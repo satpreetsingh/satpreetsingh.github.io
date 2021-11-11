@@ -6,10 +6,10 @@ title = "Satpreet H. Singh"
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-_I recently defended my PhD and am now on the job market for full-time research roles starting Jan 2022_  
+_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
-Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of ML/RL and Computational Neuroscience. 
+Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
 * More information on my [Research](/research) 
 * Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
 * [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)

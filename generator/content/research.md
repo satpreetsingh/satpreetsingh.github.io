@@ -2,11 +2,12 @@
 title = "Research"
 +++
 
-_I recently defended my PhD and am now on the job market for full-time research roles starting Jan 2022_  
+_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
-<!-- ## Research
-Current interests include 
+## Research
+
+<!-- Current interests include 
 * Understanding agents and neural networks (recurrence, learning, representations/embeddings, tasks/curricula, actor-critic and specialized architectures), 
 * Recurrent Neural Networks & Dynamical Systems
 * Agents, Equilibria, Reinforcement learning and decision making

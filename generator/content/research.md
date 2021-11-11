@@ -5,27 +5,10 @@ title = "Research"
 _I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  
 [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
-## Research
-
-<!-- Current interests include 
-* Understanding agents and neural networks (recurrence, learning, representations/embeddings, tasks/curricula, actor-critic and specialized architectures), 
-* Recurrent Neural Networks & Dynamical Systems
-* Agents, Equilibria, Reinforcement learning and decision making
-* Applications in Bio, Eco & Health; Cross-pollinating ML/AI with Neuroscience. 
-* Inverse problems in Learning & Control
-* Closed-loop (humans in the loop) Machine Learning systems
-* Self-organization and brain/biology/nature inspired algorithms
- --><!-- 
-Current interests: 
-* Agents, Games & Reinforcement Learning
-* Recurrent Neural Networks & Dynamical Systems
-* Inverse problems in Learning & Control
-* Self-organization and brain/biology/nature inspired algorithms
-* Statistical Neuroscience 
- -->
 
 ### PhD (Sept. 2017 - Dec. 2021)
-* PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. (Defended Oct 2021, enrolled till Dec 2021)
+
+* PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. (Defended mid-Oct 2021, enrolled till Dec 2021)
 * Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
 
 #### Understanding biological plume tracking behavior using deep reinforcement-learning
@@ -99,3 +82,23 @@ Abstract: Cold air pools are spatiotemporal phenomena that occur when cold air f
 
 ### Industry
 * List of patents applied and granted can be found on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
+
+
+<!-- ## Research -->
+
+<!-- Current interests include 
+* Understanding agents and neural networks (recurrence, learning, representations/embeddings, tasks/curricula, actor-critic and specialized architectures), 
+* Recurrent Neural Networks & Dynamical Systems
+* Agents, Equilibria, Reinforcement learning and decision making
+* Applications in Bio, Eco & Health; Cross-pollinating ML/AI with Neuroscience. 
+* Inverse problems in Learning & Control
+* Closed-loop (humans in the loop) Machine Learning systems
+* Self-organization and brain/biology/nature inspired algorithms
+ --><!-- 
+Current interests: 
+* Agents, Games & Reinforcement Learning
+* Recurrent Neural Networks & Dynamical Systems
+* Inverse problems in Learning & Control
+* Self-organization and brain/biology/nature inspired algorithms
+* Statistical Neuroscience 
+ -->

@@ -3,19 +3,14 @@ https://gohugo.io/getting-started/quick-start/
 # Start the Hugo server with drafts enabled:
 # In generator/
 hugo server -D
+open http://localhost:1313
 
-http://localhost:1313
-
-# Build
+# Build, Copy and push
+# In generator/
 hugo -D
-
-# Copy and push
 \cp -r public/* ../
 rm -rf public
+cd ..
 git add .
 git commit -m "$(date +%Y-%m-%d)"
 git push origin master
- 
-# TODO
-* Reduce text on research page + add images 
-* Work and Teaching experience page

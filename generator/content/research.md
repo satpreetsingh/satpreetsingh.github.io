@@ -2,8 +2,7 @@
 title = "Research"
 +++
 
-_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  
-[(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing) [(Google Scholar)](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
+_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing) [(Google Scholar)](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
 
 
 ### PhD (Sept. 2017 - Dec. 2021)

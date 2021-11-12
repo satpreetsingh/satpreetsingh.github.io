@@ -25,7 +25,7 @@ googleAnalytics = "GTM-TZ6DFVX"  # add your tracking id
 
 [menu]
   [[menu.main]]
-    name = " Home "
+    name = "Home"
     url = "/"
   [[menu.main]]
     name = "Research"
@@ -33,6 +33,12 @@ googleAnalytics = "GTM-TZ6DFVX"  # add your tracking id
   [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/satpreetsingh"
+  [[menu.main]]
+    name = "Scholar"
+    url = "https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en"
+  [[menu.main]]
+    name = "Resume/CV"
+    url = "https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view"
   [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/tweetsatpreet"

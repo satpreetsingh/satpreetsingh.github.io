@@ -37,11 +37,16 @@ Our in silico approach provides key intuitions for turbulent plume tracking stra
 
 More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 
+[Montreal AI-Neuroscience Conference 2021 (Nov 2021) Invited Talk:](https://twitter.com/tweetsatpreet/status/1462948984545169408) on this work:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>&#39;s upcoming talk at MAIN 2021 on our recently released preprint:<a href="https://t.co/7fkIuXiRkt">https://t.co/7fkIuXiRkt</a> <a href="https://t.co/eOkylFSltP">https://t.co/eOkylFSltP</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1462948984545169408?ref_src=twsrc%5Etfw">November 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Associated publications
 * [Preprint: "Emergent behavior and neural dynamics in artificial agents tracking turbulent plumes"](https://arxiv.org/abs/2109.12434)
 * [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 
 Also presented at:
+<!-- * [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule)  -->
 * [NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20) 
 * [IROS 2020 Robot Inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
 

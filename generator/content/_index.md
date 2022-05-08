@@ -6,13 +6,16 @@ title = "Satpreet H. Singh"
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing) [(Google Scholar)](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
 
-Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
-* More information on my [Research](/research) 
+Welcome to my homepage! 
+
+I am currently a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working in the Probability team.
+
+I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), contributing research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
+<!-- * More information on my [Research](/research) 
 * Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
 * [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
-
+ -->
 Prior to this, I earned an MS in Computer Science at [Oregon State University](https://eecs.oregonstate.edu), and an MS in Electrical & Computer Engineering at the [University of Iowa](https://ece.engineering.uiowa.edu), and also worked in industry for \~5 years:
 * Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) 
 * ML/Data Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/)
@@ -39,8 +42,14 @@ I can be found elsewhere on the web at
 
 
 ### Updates
-[Research page updated:](/research)
-![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
+* May 2022: Experimenting with [pro bono consulting/counseling](/service) 
+* April 2022: Organized the [ICLR 2022 Workshop on Gamification and Multiagent Solutions](https://www.gamificationmas.com/organizers)
+* March 2022: Poster presented at [CoSyNe 2022](https://www.cosyne.org/poster-session-3)
+* Feb 2022: Joined Meta
+* Nov 2021: Talk on my research by my advisor Bing Brunton at [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule) 
+
+<!-- [Research page updated:](/research) -->
+<!-- ![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4) -->
 
 <!-- ## Research Interest
 

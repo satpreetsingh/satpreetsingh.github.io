@@ -2,19 +2,17 @@
 title = "Research"
 +++
 
-_I recently defended my PhD and am now on the job market for full-time roles starting Jan 2022_  [(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing) [(Google Scholar)](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
+
+# Research
+* Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
+* I maintain a broad interest in the fields of Machine Learning and AI, especially where they intersect with Psychology, Neuroscience, Biology and Physics
 
 
 ### PhD (Sept. 2017 - Dec. 2021)
 
-* PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. (Defended mid-Oct 2021, enrolled till Dec 2021)
-* Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
+* PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. Advised by [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
 
 #### Understanding biological plume tracking behavior using deep reinforcement-learning
-<!-- #### Emergent behavior and neural dynamics in artificial agents tracking turbulent plumes -->
-<!-- Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates. This remarkable tracking behavior requires multimodal integration of odor, vision, and wind sensing, is robust to variations in plume statistics and wind speeds, and can often be performed over large distances. Therefore, it is challenging to study in confined experimental settings. Here we describe ongoing work to explore the space of policies effective to accomplish plume tracking, leveraging the reproducibility and interpretability of artificial agents trained in biologically motivated simulations. Specifically, we trained neural-network (NN) agents with deep reinforcement learning to locate the source of a patchy simulated plume, while varying their capacity to store past sensory stimuli. We analyzed the behavior of trained agents by inspecting successful trajectories. We then interrogated the input-output maps learned by the NNs, uncovering interpretable differences in control strategies introduced by varying sensory memory. We believe that our simulation-based approach can generate novel testable hypotheses to guide the development of targeted neuroethological experiments, as well as provide a pathway towards a mechanistic understanding of the key multimodal computations required for plume tracking.
- -->
-
 Abstract: Tracking a turbulent plume to locate its source is a complex control problem because it requires multi-sensory integration and must be robust to intermittent odors, changing wind direction, and variable plume statistics.
 This task is routinely performed by flying insects, often over long distances, in pursuit of food or mates.
 Several aspects of this remarkable behavior have been studied in detail in many experimental studies. 
@@ -26,29 +24,29 @@ While reflexive short-memory behaviors are sufficient for tracking plumes in con
 At the level of neural dynamics, the RNNs' population activity is low-dimensional and organized into distinct dynamical structures, with some correspondence to behavioral modules.
 Our in silico approach provides key intuitions for turbulent plume tracking strategies and motivates future targeted experimental and theoretical developments. 
 
-<!-- ![Constant Wind Plume Tracking](/oldparams-cropped.gif) -->
-
-<!-- ![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4) -->
-
-<!-- ![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4) -->
-
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1442974225032093698) on this paper:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/n Excited to share our new preprint where we study turbulent plume tracking using deep reinforcement learning (DRL) trained RNN *agents* and find many intriguing similarities with flying insects. w/ <a href="https://twitter.com/FlorisBreugel?ref_src=twsrc%5Etfw">@FlorisBreugel</a> <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>; <br> <a href="https://twitter.com/hashtag/tweeprint?src=hash&amp;ref_src=twsrc%5Etfw">#tweeprint</a> <a href="https://twitter.com/Flypapers?ref_src=twsrc%5Etfw">@flypapers</a> <a href="https://twitter.com/hashtag/Drosophila?src=hash&amp;ref_src=twsrc%5Etfw">#Drosophila</a> <a href="https://t.co/PdVKxbP0hs">pic.twitter.com/PdVKxbP0hs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1442974225032093698?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- ![Constant Wind Plume Tracking](/oldparams-cropped.gif) -->
+![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4)
+<!-- ![Constant Wind Plume Tracking](/constantx5b5_HOME_ep088.mp4) -->
+
 More animations with tracking and "neural" activity can be seen [here](https://github.com/BruntonUWBio/plumetracknets)
 
-[Montreal AI-Neuroscience Conference 2021 (Nov 2021) Invited Talk:](https://twitter.com/tweetsatpreet/status/1462948984545169408) on this work:
+<!-- [Montreal AI-Neuroscience Conference 2021 (Nov 2021) Invited Talk:](https://twitter.com/tweetsatpreet/status/1462948984545169408) on this work:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>&#39;s upcoming talk at MAIN 2021 on our recently released preprint:<a href="https://t.co/7fkIuXiRkt">https://t.co/7fkIuXiRkt</a> <a href="https://t.co/eOkylFSltP">https://t.co/eOkylFSltP</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1462948984545169408?ref_src=twsrc%5Etfw">November 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+ -->
 
 Associated publications
 * [Preprint: "Emergent behavior and neural dynamics in artificial agents tracking turbulent plumes"](https://arxiv.org/abs/2109.12434)
-* [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 
 Also presented at:
-<!-- * [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule)  -->
+* [RLDM 2022](https://rldm.org)
+* [CoSyNe 2022](https://www.cosyne.org/poster-session-3)
+* [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule) 
 * [NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20) 
 * [IROS 2020 Robot Inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
+* [ALIFE Conference 2020](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
 
 
 #### Mining naturalistic human behaviors in long-term video and neural recordings
@@ -62,7 +60,8 @@ Abstract: Recent technological advances in brain recording and artificial intell
 
 This paper's data generating pipeline and dataset were the foundation for additional papers:
 * [Peterson, SP and Singh, SH, et al (eNeuro, May 2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract) (Joint 1st authorship)
-* [Peterson et al (Journal of Neural Engineering, March 2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta) (Not a co-author; only contributed data)
+* [SM Peterson, SH Singh, B Dichter, M Scheid, RPN Rao, BW Brunton (Nature Scientific data, April 2022)](https://www.nature.com/articles/s41597-022-01280-y) 
+* [Peterson et al (Journal of Neural Engineering, March 2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta) (Only contributed data, not an author)
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1276201158575452160) on this paper:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new preprint titled “Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings” is now online: <a href="https://t.co/46FsBMFnV1">https://t.co/46FsBMFnV1</a><br>Joint work with <a href="https://twitter.com/stevenmpeterson?ref_src=twsrc%5Etfw">@stevenmpeterson</a>, <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> &amp; <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a> <br>1/4 <a href="https://t.co/6360Dw8TMs">pic.twitter.com/6360Dw8TMs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1276201158575452160?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -31,18 +31,16 @@ googleAnalytics = "GTM-TZ6DFVX"  # add your tracking id
     name = "Research"
     url = "/research"
   [[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/satpreetsingh"
-  [[menu.main]]
-    name = "Scholar"
-    url = "https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en"
-  [[menu.main]]
     name = "Resume/CV"
     url = "https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view"
   [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/tweetsatpreet"
+  [[menu.main]]
+    name = "Service"
+    url = "/service"
     
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+

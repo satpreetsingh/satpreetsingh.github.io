@@ -42,7 +42,7 @@ I can be found elsewhere on the web at
 
 
 ### Updates
-* May 2022: Experimenting with [pro bono consulting/counseling](/service) 
+<!-- * May 2022: Experimenting with [pro bono consulting/counseling](/service)  -->
 * April 2022: Organized the [ICLR 2022 Workshop on Gamification and Multiagent Solutions](https://www.gamificationmas.com/organizers)
 * March 2022: Poster presented at [CoSyNe 2022](https://www.cosyne.org/poster-session-3)
 * Feb 2022: Joined Meta

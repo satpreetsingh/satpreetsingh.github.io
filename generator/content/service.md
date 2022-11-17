@@ -24,10 +24,9 @@ I am offering pro bono (without charge) consulting or counseling sessions of 30-
 ### Who this is for
 * This is primarily directed towards students who are in or about to take on grad-school, or at (relatively early-stage) professionals, and startupers who might benefit from my experience.
 
-### Who this is not for
+### Who/what this is not for
 * Recruiters wanting to offer me some random coding gig
-* Discussions around fintech, bitcoin and other high-speculation activities
-* Discussing anything that is illegal or borderline so
+* Discussions around fintech, bitcoin and other high-speculation (and illegal or borderline so) activities
 * Discussing politics
 
 ### How to schedule

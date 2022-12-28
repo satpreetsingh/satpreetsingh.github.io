@@ -2,6 +2,7 @@
 title = "Satpreet H. Singh"
 +++
 
+
 ## About/Bio
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
@@ -9,7 +10,7 @@ title = "Satpreet H. Singh"
 
 Welcome to my homepage! 
 
-I am currently a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working in the Probability team.
+I am currently a Researcher in AI/ML for Bio/Neuro at the Baylor College of Medicine (Houston, TX), and was ~~am currently~~ a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working in the Probability team from Feb-Dec 2022.
 
 I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), contributing research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
 <!-- * More information on my [Research](/research) 
@@ -103,3 +104,12 @@ def is_elementary():
 [^2]: This is the second footnote.
 -->
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK1KPLK46E');
+</script>

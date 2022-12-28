@@ -2,7 +2,6 @@
 title = "Research"
 +++
 
-
 # Research
 * Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
 * I maintain a broad interest in the fields of Machine Learning and AI, especially where they intersect with Psychology, Neuroscience, Biology and Physics
@@ -105,3 +104,13 @@ Current interests:
 * Self-organization and brain/biology/nature inspired algorithms
 * Statistical Neuroscience 
  -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK1KPLK46E');
+</script>

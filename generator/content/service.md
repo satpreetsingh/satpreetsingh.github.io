@@ -2,10 +2,11 @@
 title = "Service"
 +++
 
-**NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends** 
+
+~~NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends~~
 
 # Pro bono consulting/counseling 
-I am offering pro bono (without charge) consulting or counseling sessions of 30-45 min duration for anyone who might want to avail of my expertise or experience. 
+I am offering pro bono (without charge) consulting or counseling sessions of ~30 min duration for anyone who might want to avail of my expertise or experience. 
 
 ### Some areas that I have experience in and think I could provide advice
 * Building machine learning models or systems
@@ -47,3 +48,14 @@ I am inspired by Eric J Ma's life motto, taken from the Gospel of Luke, as quote
 > Luke 12:48
 
 Happy to receive feedback on this page! 
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK1KPLK46E');
+</script>

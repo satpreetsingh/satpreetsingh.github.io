@@ -10,7 +10,7 @@ title = "Satpreet H. Singh"
 
 Welcome to my homepage! 
 
-I am currently a Researcher in AI/ML for Bio/Neuro at the Baylor College of Medicine (Houston, TX), and was ~~am currently~~ a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working in the Probability team from Feb-Dec 2022.
+I am currently a Researcher in AI/ML for Bio/Neuro at the Baylor College of Medicine (Houston, TX), and was ~~am currently~~ a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working on the [(now disbanded)]((https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/)) [Probability team](https://research.facebook.com/teams/probability/) team from Feb-Dec 2022.
 
 I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), contributing research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
 <!-- * More information on my [Research](/research) 

@@ -32,7 +32,7 @@ googleAnalytics = "GTM-TZ6DFVX"  # add your tracking id
     url = "/research"
   [[menu.main]]
     name = "Resume/CV"
-    url = "https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view"
+    url = "https://drive.google.com/file/d/1JubBy6FAWXurBlMqHWEoQqQNsNWDil74/view?usp=sharing"
   [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/tweetsatpreet"

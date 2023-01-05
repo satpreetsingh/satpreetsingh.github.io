@@ -31,6 +31,10 @@ I can be found elsewhere on the web at
 * [GitHub](https://github.com/satpreetsingh)
 * [ORCID](https://orcid.org/0000-0003-1867-4401)
 
+OR 
+
+[Send me anonymous feedback!](https://www.admonymous.co/satpreetsingh)
+
 
 ### Random Links
 * [ML/AI deadlines ⏰](https://aideadlin.es/?sub=ML)

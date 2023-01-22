@@ -2,6 +2,7 @@
 title = "Satpreet H. Singh"
 +++
 
+
 ## About/Bio
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
@@ -9,7 +10,7 @@ title = "Satpreet H. Singh"
 
 Welcome to my homepage! 
 
-Since Feb 2022, I have been a Research Scientist (Machine Learning) at Meta Platforms Inc. (parent co. of Facebook), working on the [(now disbanded)]((https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/)) [Probability team](https://research.facebook.com/teams/probability/).
+I am currently a Researcher in AI/ML for Bio/Neuro at the [Baylor College of Medicine](https://www.bcm.edu)/[Rice University](https://www.rice.edu) (Houston, TX). Just prior to that, I was a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working on the [(now disbanded)]((https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/)) [Probability team](https://research.facebook.com/teams/probability/) team from Feb-Dec 2022.
 
 I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), contributing research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
 <!-- * More information on my [Research](/research) 
@@ -45,12 +46,12 @@ OR
 * [r/aww 🐶🐱](https://www.reddit.com/r/aww/)
 
 
-### Updates
+<!-- ### Updates -->
 <!-- * May 2022: Experimenting with [pro bono consulting/counseling](/service)  -->
-* April 2022: Organized the [ICLR 2022 Workshop on Gamification and Multiagent Solutions](https://www.gamificationmas.com/organizers)
-* March 2022: Poster presented at [CoSyNe 2022](https://www.cosyne.org/poster-session-3)
-* Feb 2022: Joined Meta
-* Nov 2021: Talk on my research by my advisor Bing Brunton at [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule) 
+<!-- * April 2022: Organized the [ICLR 2022 Workshop on Gamification and Multiagent Solutions](https://www.gamificationmas.com/organizers) -->
+<!-- * March 2022: Poster presented at [CoSyNe 2022](https://www.cosyne.org/poster-session-3) -->
+<!-- * Feb 2022: Joined Meta -->
+<!-- * Nov 2021: Talk on my research by my advisor Bing Brunton at [Montreal AI-Neuroscience Conference 2021](https://www.main2021.org/schedule)  -->
 
 <!-- [Research page updated:](/research) -->
 <!-- ![Noisy Wind Plume Tracking](/noisy3x5b5_HOME_ep159.mp4) -->
@@ -107,3 +108,12 @@ def is_elementary():
 [^2]: This is the second footnote.
 -->
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FK1KPLK46E');
+</script>

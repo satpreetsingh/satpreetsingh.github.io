@@ -10,9 +10,9 @@ title = "Satpreet H. Singh"
 
 Welcome to my homepage! 
 
-I am currently a Researcher in AI/ML for Bio/Neuro at the [Baylor College of Medicine](https://www.bcm.edu)/[Rice University](https://www.rice.edu) (Houston, TX). Just prior to that, I was a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working on the [(now disbanded)]((https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/)) [Probability team](https://research.facebook.com/teams/probability/) team from Feb-Dec 2022.
+I am currently a Researcher in AI/ML for Bio/Neuro at the [Baylor College of Medicine](https://www.bcm.edu)/[Rice University](https://www.rice.edu) (Houston, TX). Just prior to that, I was a Research Scientist in Machine Learning at Meta Platforms Inc. (parent co. of Facebook), working on the [(now disbanded)](https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/) [Probability team](https://research.facebook.com/teams/probability/) team from Feb-Dec 2022.
 
-I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), contributing research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
+I graduated with a PhD in Dec 2021 from the University of Washington (Seattle), with research at the intersection of Machine/Reinforcement Learning and Computational Neuroscience. 
 <!-- * More information on my [Research](/research) 
 * Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
 * [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)

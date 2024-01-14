@@ -6,15 +6,14 @@
     <description>Recent content in Posts on Satpreet H. Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Apr 2021 16:09:03 -0700</lastBuildDate><atom:link href="http://satpreetsingh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 16:09:03 -0700</lastBuildDate>
+    <atom:link href="http://satpreetsingh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://satpreetsingh.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 24 Apr 2021 16:09:03 -0700</pubDate>
-      
       <guid>http://satpreetsingh.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

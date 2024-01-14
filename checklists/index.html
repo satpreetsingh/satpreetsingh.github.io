@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>404 Page not found</title>
+    <title></title>
     <meta name="description" content="Satpreet&#39;s Homepage">
     <meta name="author" content='Satpreet H. Singh'>
 
@@ -70,8 +70,30 @@
 <hr>
 <div id="content">
 <div class="container">
-    <h1>404 Error</h1>
-    <p>Page does not exist.</p>
+    <h2 id="checklistgotchas-for-applied-machine-learning-projects">Checklist/Gotchas for Applied Machine Learning Projects</h2>
+<ul>
+<li>
+<p>Data leakage: Is prediction accuracy &gt;99%? You probably have data-leakage!
+Check if the training data is leaking into the test data (i.e. train-test split is broken)
+Alternatively, check if the target variable is included in the features. (This would show up in training accuracy of &gt;99% too)</p>
+</li>
+<li>
+<p>Time-series: Train-test split should be such that test data is later in time compared to training data.</p>
+</li>
+<li>
+<p>Random Forest Feature Importances:
+** Noise floor
+** Correlated input features</p>
+</li>
+<li>
+<p>Interpreting regression coefficients</p>
+</li>
+<li>
+<p>Using test accuracy to make decisions</p>
+</li>
+<li></li>
+</ul>
+
 </div>
 
         </div><div id="footer" class="mb-5">

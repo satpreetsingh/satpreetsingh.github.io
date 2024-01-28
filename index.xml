@@ -20,27 +20,21 @@
       <link>http://satpreetsingh.github.io/checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://satpreetsingh.github.io/checklists/</guid>
-      <description>Checklist/Gotchas for Applied Machine Learning Projects Data leakage: Is prediction accuracy &amp;gt;99%? You probably have data-leakage! Check if the training data is leaking into the test data (i.e. train-test split is broken) Alternatively, check if the target variable is included in the features. (This would show up in training accuracy of &amp;gt;99% too)
-Time-series: Train-test split should be such that test data is later in time compared to training data.</description>
+      <description>Checklist/Gotchas for Applied Machine Learning Projects Data leakage: Is prediction accuracy &amp;gt;99%? You probably have data-leakage! Check if the training data is leaking into the test data (i.e. train-test split is broken) Alternatively, check if the target variable is included in the features. (This would show up in training accuracy of &amp;gt;99% too)&#xA;Time-series: Train-test split should be such that test data is later in time compared to training data.</description>
     </item>
     <item>
       <title>Research</title>
       <link>http://satpreetsingh.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://satpreetsingh.github.io/research/</guid>
-      <description>Research Overview I&amp;rsquo;m passionate about research at the intersections of Machine Learning, Natural and Artificial Intelligence, Biology and Medicine. For a complete list of my publications and patents, visit my Google Scholar profile.
-Here&amp;rsquo;s a reverse-chronological summary of my work:
-Post-doc at Harvard (current) Working with Kanaka Rajan at the intersection of DeepRL-Agents and Neuroscience.
-Post-doc at Baylor College of Medicine/Rice University (2023) Worked with Ankit Patel at the intersection of AI and Biology/Medicine</description>
+      <description>Research Overview I&amp;rsquo;m passionate about research at the intersections of Machine Learning, Natural and Artificial Intelligence, Biology and Medicine. For a complete list of my publications and patents, visit my Google Scholar profile.&#xA;Here&amp;rsquo;s a reverse-chronological summary of my work:&#xA;Post-doc at Harvard Medical / Kempner Institute (current) Working with Kanaka Rajan at the intersection of DeepRL-Agents and Neuroscience.&#xA;Post-doc at Baylor College of Medicine/Rice University (2023) Worked with Ankit Patel at the intersection of AI and Biology/Medicine</description>
     </item>
     <item>
       <title>Service</title>
       <link>http://satpreetsingh.github.io/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://satpreetsingh.github.io/service/</guid>
-      <description>From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.
-Gospel of Luke 12:48, inspired by Eric J Ma&amp;rsquo;s homepage
-Pro bono consulting/counseling I am offering pro bono (without charge) consulting or counseling sessions of ~30 min duration for anyone who might want to avail of my expertise or experience. NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends</description>
+      <description>From everyone who has been given much, much will be demanded; and from the one who has been entrusted with much, much more will be asked.&#xA;Gospel of Luke 12:48, inspired by Eric J Ma&amp;rsquo;s homepage&#xA;Pro bono consulting/counseling I am offering pro bono (without charge) consulting or counseling sessions of ~30 min duration for anyone who might want to avail of my expertise or experience. NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends</description>
     </item>
   </channel>
 </rss>

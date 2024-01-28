@@ -9,7 +9,7 @@ Here's a reverse-chronological summary of my work:
 
 ***
 
-### Post-doc at Harvard (current)
+### Post-doc at Harvard Medical / Kempner Institute (current)
 Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersection of DeepRL-Agents and Neuroscience. 
 
 ***
@@ -23,11 +23,11 @@ Worked with [Ankit Patel](https://ankitlab.co) at the intersection of AI and Bio
 ***
 
 ### Post-PhD Industry (2022)
-Research Scientist in Machine Learning in the [Probability team](https://research.facebook.com/teams/probability/) team at Meta. Worked on: 
-* Uncertainty Quantification using Neural Networks (Deep Ensembles, MCMCDropout, SNGPs...) and
+Research Scientist in Machine Learning in the [Probability team](https://research.facebook.com/teams/probability/) team at Meta. Worked on team proojects involving: 
+* Uncertainty Quantification using Neural Networks (Deep Ensembles, MCMCDropout, ...)
 * Bayesian Modeling for Online Experiments (primarily using sampling-based inference from the in-house [Bean Machine](https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/) PPL) 
 
-At the end of a [very volatile year](https://www.nytimes.com/2022/11/09/technology/meta-layoffs-facebook.html), my entire org was [disbanded](https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/) in Nov 2022. While I had the option to stick around and find another team after the layoffs, I decided to pursue my research passions.
+<!-- At the end of a [very volatile year](https://www.nytimes.com/2022/11/09/technology/meta-layoffs-facebook.html), my entire org was [disbanded](https://venturebeat.com/ai/meta-layoffs-hit-entire-ml-research-team-focused-on-infrastructure/) in Nov 2022. While I had the option to stick around and find another team after the layoffs, I decided to pursue my research passions. -->
 
 ***
 

@@ -7,7 +7,6 @@ title = "Satpreet H. Singh"
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-
 Welcome to my homepage! 
 I am currently a postdoc with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the [Harvard Medical School](https://neuro.hms.harvard.edu) and [Kempner Institute](https://www.harvard.edu/kempner-institute/).
 Previously, I spent a year applying AI to Biology and Medicine at [Ankit Patel](https://ankitlab.co)'s lab at [Baylor College of Medicine](https://www.bcm.edu)/[Rice University](https://www.rice.edu) (Houston, TX), and another as Research Scientist in Machine Learning at Meta's (Facebook's)["Probability"](https://research.facebook.com/teams/probability/) team.  
@@ -16,6 +15,9 @@ I graduated with a PhD in Dec 2021 from the [University of Washington (Seattle)]
 
 I have worked in industry for \~5 years:
 Research Scientist in Machine Learning at Meta, Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) (now Microsoft),  ML/Data Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/), (Chip) Design Engineer at [Texas Instruments](https://www.ti.com) and Robotics Intern at [Systemantics](http://www.systemantics.com)
+
+**UPDATE**: I am on the academic job market for positions that start in Fall 2025. 
+
 
 ### Contact links
 * Email: satpreetsingh[at]gmail[dot]com OR satsingh[at]uw[dot]edu
@@ -31,6 +33,8 @@ Research Scientist in Machine Learning at Meta, Data Scientist on the [LinkedIn.
 * [SciDraw.io scientific artwork 🐞](https://scidraw.io)
 * [Lightboards 💡](https://twitter.com/tweetsatpreet/status/1302414554782076928)
 * [r/aww 🐶🐱](https://www.reddit.com/r/aww/)
+* [Admin: Website Stats](https://statcounter.com/p13020034/?guest=1)
+
 
 
 <!-- ### Updates -->
@@ -95,12 +99,18 @@ def is_elementary():
 [^2]: This is the second footnote.
 -->
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FK1KPLK46E');
+<!-- Default Statcounter code for Personal http://satpreetsingh.github.io -->
+<!-- <script type="text/javascript">
+var sc_project=13020034; 
+var sc_invisible=1; 
+var sc_security="69b15dcb"; 
 </script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13020034/0/69b15dcb/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+ -->
+ <!-- End of Statcounter Code -->
+<!-- <a href="https://statcounter.com/p13020034/?guest=1">Website Stats</a> -->

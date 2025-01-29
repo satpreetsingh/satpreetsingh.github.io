@@ -24,19 +24,19 @@ author:
   avatar           : "files/profile.png"
   name             : "Satpreet (Sat) Singh"
   pronouns         : # example: "she/her"  
-  bio              : "B"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # ""
+  location         : "Boston"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "satpreetsingh@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/q-bio?searchtype=author&query=Singh%2C+S+H"
+  googlescholar    : "https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1867-4401"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "satpreetsingh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "satpreetsingh.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "tweetsatpreet" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

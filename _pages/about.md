@@ -1,5 +1,5 @@
 ---
-title: "Satpreet H. Singh | Homepage"
+title: "About"
 author_profile: true
 permalink: /
 redirect_from: 
@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About/Bio
 
 **UPDATE**: I am on the academic job market for positions that start in Fall 2025.  
 
@@ -28,8 +27,9 @@ I have worked in industry for ~5 years:
 
 ## Contact
 - 📧 Email: satpreetsingh[at]gmail[dot]com OR satsingh[at]uw[dot]edu  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/satpreetsingh) | [Twitter](https://twitter.com/tweetsatpreet)  
-- 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)  
+<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/satpreetsingh)  -->
+ <!-- [Twitter](https://twitter.com/tweetsatpreet)   -->
+<!-- - 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)   -->
 - 📝 [Anonymous feedback!](https://www.admonymous.co/satpreetsingh)  
 
 ## Random Links

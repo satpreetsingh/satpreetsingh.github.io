@@ -1,5 +1,5 @@
 ---
-title: "Satpreet Singh | Research"
+title: "Research"
 author_profile: true
 permalink: /research/
 redirect_from: 
@@ -7,8 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-# Research Overview
-I'm passionate about research at the intersections of Machine Learning, Natural and Artificial Intelligence, Robotics, Biology and Medicine. For a complete list of my publications and patents, visit my [Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
+*Overview*: I'm passionate about Machine Learning, Natural and Artificial Intelligence, Robotics, Biology and Medicine. For a complete list of my publications and patents, visit my [Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
 
 Here's a reverse-chronological summary of my work:
 
@@ -118,13 +117,3 @@ Current interests:
 * Self-organization and brain/biology/nature inspired algorithms
 * Statistical Neuroscience 
  -->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FK1KPLK46E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FK1KPLK46E');
-</script>

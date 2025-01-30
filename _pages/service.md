@@ -1,9 +1,8 @@
 ---
-title: "Satpreet Singh | Service"
+# title: "Satpreet Singh | Service"
 author_profile: true
 permalink: /service/
 redirect_from: 
-  - /service/
   - /service.html
 ---
 

@@ -3,26 +3,44 @@ title: "Research"
 author_profile: true
 permalink: /research/
 redirect_from: 
-  - /research/
   - /research.html
 ---
 
-*Overview*: I'm passionate about Machine Learning, Natural and Artificial Intelligence, Robotics, Biology and Medicine. For a complete list of my publications and patents, visit my [Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
+**Overview**: I'm passionate about Machine Learning, Natural and Artificial Intelligence, Robotics, Computational Biology and Medicine. 
+For a complete list of my publications and patents, visit my [Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
 
-Here's a reverse-chronological summary of my work:
-
-***
-
-### Post-doc at Harvard Medical / Kempner Institute (current)
-Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersection of DeepRL-Agents and Neuroscience. 
 
 ***
+
+## Reverse-chronological summary:
+
+### Post-doc at Harvard Medical / Kempner Institute (2024-Current)
+Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersection of DeepRL-Agents and Neuroscience.  My current research focuses on:
+
+- **Agent Models in Neuroscience**: Developing RNN-based reinforcement learning agents to study complex naturalistic animal behavior. As an example, in a collaboration with [Nate Sawtell (Columbia)](https://sawtell-lab.neuroscience.columbia.edu), we have been investigating active electrosensing and emergent social behaviors in MARL-trained agents, inspired by Weakly Electric Fish.
+  - Johnson-Yu, S., Singh, S. H., et al. (2024). "Understanding biological active sensing behaviors by interpreting learned artificial agent policies." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=FX7YtfEYj8)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)]  
+  - Singh, S. H., Johnson-Yu, S., et al. (2025). "Active Electrosensing and Emergent Communication in Artificial Fish Collectives" *(In Preparation).*
+
+- **Methods and Theory for understanding RNN Agents**: To *interpret, compare, and constrain neural networks trained via RL*, I develop theoretical tools and methods using tools from dynamical systems theory, neuroscience, and AI interpretability.
+  - Huang, A. H., Singh, S. H., et al. (2024). "Learning Dynamics and the Geometry of Neural Dynamics in Recurrent Neural Controllers." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=SbbpTtB6B4)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)]    
+  - Huang, A. H., Singh, S. H., Rajan, K. (2025). "Measuring and Controlling Solution Degeneracy in Task-Trained RNNs." [[Preprint, In revision](https://arxiv.org/abs/2410.03972)]
+  - Huang, A. H., Ostrow, M., Singh, S. H., et al, "AgentDSA: Dynamical Similarity Analysis for Neural Controllers" *(In Preparation).*
+
+
 
 ### Post-doc at Baylor College of Medicine/Rice University (2023)
-Worked with [Ankit Patel](https://ankitlab.co) at the intersection of AI and Biology/Medicine
-1. Understanding Gene Regulatory Network (GRN) evolvability through evolutionary simulations. See extended abstract ["Binding affinity distributions drive adaptation in GRN evolution"](https://direct.mit.edu/isal/proceedings/isal/35/89/116839) at ALIFE 2023
-2. Using (SOTA) LLMs to analyze Semi-Structured Healthcare interviews. (Nearing pre-print stage) 
-3. Characterizing the evolution of molecular markers of [Myelodysplastic Syndrome (MDS)](https://www.mds-foundation.org/what-is-mds/) in multi-omic liquid biopsies. (In progress) 
+1. **Gene Regulatory Network (GRN) Evolution**: Simulated GRN evolution to study transcription factor promiscuity and adaptation.
+   - *"Binding affinity distributions drive adaptation in GRN evolution"* (ALIFE 2023) [[Paper](https://direct.mit.edu/isal/proceedings/isal/35/89/116839)]
+
+2. **AI for Mental Health**: Developed RACER, an auditable, expert-steerable LLM-based methodology for analyzing semi-structured healthcare interviews.
+   - *RACER: An LLM-powered Methodology for Scalable Analysis of Semi-structured Mental Health Interviews* (EMNLP 2024 Workshop on NLP4Science) [[Paper](https://aclanthology.org/2024.nlp4science-1.8/)]
+
+3. **AI in Cardiology**: Implemented uncertainty-aware arrhythmia detection models for pediatric ICUs.
+   - *"A multimodal deep learning tool for detection of junctional ectopic tachycardia in children with congenital heart disease"* (Heart Rhythm O2, 2024) [[Paper](https://pubmed.ncbi.nlm.nih.gov/39119021/)]
+
+4. **Multi-Omic Cancer Progression Analysis**: Characterized molecular markers of [Myelodysplastic Syndrome (MDS)](https://www.mds-foundation.org/what-is-mds/) using multi-omic liquid biopsies. (Ongoing)
+
+
 
 ***
 
@@ -41,7 +59,7 @@ Research Scientist in Machine Learning in the [Probability team](https://researc
 #### Project 1: Using deep recurrent reinforcement-learning agents to understand insect plume tracking 
 
 [Singh et al, Nature Machine Intelligence, Jan 2023](https://www.nature.com/articles/s42256-022-00599-w).  Issue cover feature (artwork by Bingni Brunton)
-![NMI Jan 2023 Cover](/nmi_cover.png)
+![NMI Jan 2023 Cover](/files/nmi_cover.png)
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1442974225032093698): 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/n Excited to share our new preprint where we study turbulent plume tracking using deep reinforcement learning (DRL) trained RNN *agents* and find many intriguing similarities with flying insects. w/ <a href="https://twitter.com/FlorisBreugel?ref_src=twsrc%5Etfw">@FlorisBreugel</a> <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>; <br> <a href="https://twitter.com/hashtag/tweeprint?src=hash&amp;ref_src=twsrc%5Etfw">#tweeprint</a> <a href="https://twitter.com/Flypapers?ref_src=twsrc%5Etfw">@flypapers</a> <a href="https://twitter.com/hashtag/Drosophila?src=hash&amp;ref_src=twsrc%5Etfw">#Drosophila</a> <a href="https://t.co/PdVKxbP0hs">pic.twitter.com/PdVKxbP0hs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1442974225032093698?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

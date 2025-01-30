@@ -32,6 +32,12 @@ $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
+$global-font-family         : "Merriweather", serif;   // Elegant for body text
+$header-font-family         : "Playfair Display", serif;  // Stylish for headers
+$caption-font-family        : "EB Garamond", serif;    // Classic for captions
+$monospace                  : "Fira Code", monospace;  // Modern for code blocks
+
+
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px

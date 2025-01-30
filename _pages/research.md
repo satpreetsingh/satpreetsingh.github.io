@@ -21,6 +21,10 @@ Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersect
   - Johnson-Yu, S., Singh, S. H., et al. (2024). "Understanding biological active sensing behaviors by interpreting learned artificial agent policies." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=FX7YtfEYj8)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)]  
   - Singh, S. H., Johnson-Yu, S., et al. (2025). "Active Electrosensing and Emergent Communication in Artificial Fish Collectives" *(In Preparation).*
 
+<div align="center">
+  <img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Simulation" />
+</div>
+
 - **Methods and Theory for understanding RNN Agents**: To *interpret, compare, and constrain neural networks trained via RL*, I develop theoretical tools and methods using tools from dynamical systems theory, neuroscience, and AI interpretability.
   - Huang, A. H., Singh, S. H., et al. (2024). "Learning Dynamics and the Geometry of Neural Dynamics in Recurrent Neural Controllers." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=SbbpTtB6B4)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)]    
   - Huang, A. H., Singh, S. H., Rajan, K. (2025). "Measuring and Controlling Solution Degeneracy in Task-Trained RNNs." [[Preprint, In revision](https://arxiv.org/abs/2410.03972)]
@@ -58,8 +62,11 @@ Research Scientist in Machine Learning in the [Probability team](https://researc
 
 #### Project 1: Using deep recurrent reinforcement-learning agents to understand insect plume tracking 
 
-[Singh et al, Nature Machine Intelligence, Jan 2023](https://www.nature.com/articles/s42256-022-00599-w).  Issue cover feature (artwork by Bingni Brunton)
-![NMI Jan 2023 Cover](/files/nmi_cover.png)
+[Singh et al, Nature Machine Intelligence, Jan 2023, Cover Feature](https://www.nature.com/articles/s42256-022-00599-w).  
+
+<div align="center">
+  <img src="/files/nmi_cover.png" alt="Artwork by Bingni Brunton and Floris van Breugel" />
+</div>
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1442974225032093698): 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/n Excited to share our new preprint where we study turbulent plume tracking using deep reinforcement learning (DRL) trained RNN *agents* and find many intriguing similarities with flying insects. w/ <a href="https://twitter.com/FlorisBreugel?ref_src=twsrc%5Etfw">@FlorisBreugel</a> <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a>; <br> <a href="https://twitter.com/hashtag/tweeprint?src=hash&amp;ref_src=twsrc%5Etfw">#tweeprint</a> <a href="https://twitter.com/Flypapers?ref_src=twsrc%5Etfw">@flypapers</a> <a href="https://twitter.com/hashtag/Drosophila?src=hash&amp;ref_src=twsrc%5Etfw">#Drosophila</a> <a href="https://t.co/PdVKxbP0hs">pic.twitter.com/PdVKxbP0hs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1442974225032093698?ref_src=twsrc%5Etfw">September 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

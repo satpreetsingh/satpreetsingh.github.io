@@ -42,7 +42,7 @@ Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersect
 3. **AI in Cardiology**: Implemented uncertainty-aware arrhythmia detection models for pediatric ICUs.
    - *"A multimodal deep learning tool for detection of junctional ectopic tachycardia in children with congenital heart disease"* (Heart Rhythm O2, 2024) [[Paper](https://pubmed.ncbi.nlm.nih.gov/39119021/)]
 
-4. **Multi-Omic Cancer Progression Analysis**: Characterized molecular markers of [Myelodysplastic Syndrome (MDS)](https://www.mds-foundation.org/what-is-mds/) using multi-omic liquid biopsies. (Ongoing)
+4. **Multi-Omic Cancer Progression Analysis**: Characterized molecular markers of [Myelodysplastic Syndrome (MDS)](https://www.mds-foundation.org/what-is-mds/) using multi-omic liquid biopsies. (Ongoing) [[Abstract: Experimental Hematology](https://www.sciencedirect.com/science/article/pii/S0301472X24002261)] 
 
 
 

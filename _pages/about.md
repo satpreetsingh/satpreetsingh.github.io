@@ -57,6 +57,3 @@ class="statcounter"
 src="https://c.statcounter.com/13020034/0/69b15dcb/1/"
 alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
-<a href="https://statcounter.com/p13020034/?guest=1">Website
-Stats</a>

@@ -142,3 +142,20 @@ Current interests:
 * Self-organization and brain/biology/nature inspired algorithms
 * Statistical Neuroscience 
  -->
+
+ <!-- Default Statcounter code for Personal
+http://satpreetsingh.github.io -->
+<script type="text/javascript">
+var sc_project=13020034; 
+var sc_invisible=1; 
+var sc_security="69b15dcb"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13020034/0/69b15dcb/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>

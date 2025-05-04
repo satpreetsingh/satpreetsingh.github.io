@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**UPDATE**: I am on the academic job market for positions that start in Fall 2025.  
+**UPDATE**: I am on the job market for (Assistant Professor, Research Scientist) positions. See my [Research](research/)  
 
 Welcome to my homepage!  
 I am currently a postdoc with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the [Harvard Medical School](https://neuro.hms.harvard.edu) and the [Kempner Institute](https://www.harvard.edu/kempner-institute/).  

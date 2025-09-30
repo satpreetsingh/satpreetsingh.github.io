@@ -17,19 +17,22 @@ Previously, I spent a year applying AI to Biology and Medicine at [Ankit Patel](
 I have worked in industry for about 5 years, including most recently as a Research Scientist in Machine Learning at Meta's [Probability](https://research.facebook.com/teams/probability/) team, a Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) (now Microsoft), a ML Software Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/), a (semiconductor) Design Engineer at [Texas Instruments](https://www.ti.com) and a Robotics Intern at [Systemantics](http://www.systemantics.com).   
 
 
-## Contact
-- 📧 Email: satpreetsingh[at]gmail[dot]com OR satsingh[at]uw[dot]edu  
-<!-- - 🔗 [LinkedIn](https://www.linkedin.com/in/satpreetsingh)  -->
- <!-- [Twitter](https://twitter.com/tweetsatpreet)   -->
-<!-- - 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)   -->
-- 📝 [Anonymous feedback!](https://www.admonymous.co/satpreetsingh)  
-
 ## News
+* Sept 2025: Paper on [Degneracy in RNN solutions](https://arxiv.org/abs/2410.03972) selected for Spotlight at NeurIPS 2025!
+* Sept 2025: Paper on DeepRL Zebrafish Agents accepted to AI4Science Workshop at NeurIPS 2025.
+* June 2025: [RLDM 2025 Spotlight talk](https://rldm.org/program-2025/) on our work on MARL for Weakly Electric Fish Collectives. 
 * May 2nd 2025: Delivered the ["Pizza talk" at Harvard Medical School](https://neuro.hms.harvard.edu/events?trumbaEmbed=view%3Devent%26eventid%3D173874342) for the Rajan lab on our ongoing work on multi-agent electrosensing collectives
 * April 2025: Presented my work on [plume tracking agents](https://www.nature.com/articles/s42256-022-00599-w) at the [Collectively Emerged Timescales Workshop](https://www.cosyne.org/workshops-program-2025) at COSYNE 2025
 * April 2025: Organized the first workshop on [Agent-Based Models in Neuroscience:
 Complex Planning, Embodiment and Beyond](https://neuro-agent-models.github.io) at COSYNE 2025 (Talk recordings uploaded!).
-* March 2025: Awarded the Alice and Joseph Brooks Fund Postdoctoral Fellowship (2025-26) at Harvard Medical School
+* March 2025: Awarded the Alice and Joseph Brooks Fund Postdoctoral Fellowship (2025-26) at Harvard Medical School.
+
+## Contact
+- 📧 Email: satpreetsingh[at]gmail[dot]com OR satsingh[at]uw[dot]edu  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satpreetsingh) 
+ [Twitter](https://twitter.com/tweetsatpreet)  
+- 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)  
+- 📝 [Anonymous feedback!](https://www.admonymous.co/satpreetsingh)  
 
 
 ## Random Links

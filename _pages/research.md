@@ -17,18 +17,27 @@ For a complete list of my publications and patents, visit my [Google Scholar pro
 ### Post-doc at Harvard Medical / Kempner Institute (2024-Current)
 Working with [Kanaka Rajan](https://twitter.com/KanakaRajanPhD) at the intersection of DeepRL-Agents and Neuroscience.  My current research focuses on:
 
-- **Agent Models in Neuroscience**: Developing RNN-based reinforcement learning agents to study complex naturalistic animal behavior. As an example, in a collaboration with [Nate Sawtell (Columbia)](https://sawtell-lab.neuroscience.columbia.edu), we have been investigating active electrosensing and emergent social behaviors in MARL-trained agents, inspired by Weakly Electric Fish.
-  - Johnson-Yu, S., Singh, S. H., et al. (2024). "Understanding biological active sensing behaviors by interpreting learned artificial agent policies." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=FX7YtfEYj8)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)]  
+- **Agent Models in Neuroscience**: Developing RNN-based reinforcement learning agents to study complex naturalistic animal behavior. 
+
+As an example, in a collaboration with [Nate Sawtell (Columbia)](https://sawtell-lab.neuroscience.columbia.edu), I have been investigating active electrosensing and emergent social behaviors in MARL-trained agents, inspired by Weakly Electric Fish.
   - Singh, S. H., Johnson-Yu, S., et al. (2025). "Active Electrosensing and Emergent Communication in Artificial Fish Collectives" *(In Preparation).*
+  - Johnson-Yu, S., Singh, S. H., et al. (2024). "Understanding biological active sensing behaviors by interpreting learned artificial agent policies." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=FX7YtfEYj8)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)]  
 
 <div align="center">
-  <img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Simulation" />
+  <img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish" />
+</div>
+
+Another example, in collaboration with [Florian Engert (Harvard)](https://www.engertlab.org/research), I have been studying naturalistic hunting behavior of Zebrafish larvae in both solitary and collective settings. 
+ - Malik R, Singh SH, Johnson-Yu S, et al (2025), "Dissecting Larval Zebrafish Hunting using Deep Reinforcement Learning Trained RNN Agents" (Full length paper Submitted; extended abstract accepted to NeurIPS 2025 AI4Science workshop)
+
+<div align="center">
+  <img src="/files/Bots_20250922.gif" alt="Zebrafish" />
 </div>
 
 - **Methods and Theory for understanding RNN Agents**: To *interpret, compare, and constrain neural networks trained via RL*, I develop theoretical tools and methods using tools from dynamical systems theory, neuroscience, and AI interpretability.
   - Huang, A. H., Singh, S. H., et al. (2024). "Learning Dynamics and the Geometry of Neural Dynamics in Recurrent Neural Controllers." *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024* [[Paper](https://openreview.net/forum?id=SbbpTtB6B4)] [[TalkRL Podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)]    
-  - Huang, A. H., Singh, S. H., Rajan, K. (2025). "Measuring and Controlling Solution Degeneracy in Task-Trained RNNs." [[Preprint, In revision](https://arxiv.org/abs/2410.03972)]
-  - Huang, A. H., Ostrow, M., Singh, S. H., et al, "AgentDSA: Dynamical Similarity Analysis for Neural Controllers" *(In Preparation).*
+  - Huang, A. H., Singh, S. H., Rajan, K. (2025). "Measuring and Controlling Solution Degeneracy in Task-Trained RNNs." [[NeurIPS 2025, Spotlight Talk](https://arxiv.org/abs/2410.03972)]
+  - Huang, A. H., Ostrow, M., Singh, S. H., et al, "InputDSA: Demixing then comparing recurrent and externally driven dynamics" *(Submitted).*
 
 
 

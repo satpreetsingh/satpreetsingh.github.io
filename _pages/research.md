@@ -7,9 +7,11 @@ redirect_from:
 ---
 
 ## Overview
-I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory**, **Natural & Artificial Intelligence**, and **applications in Computational Biology, Medicine, and Neuroengineering**.  
-* I build and analyze **agent-based models**—recurrent neural network (RNN) controllers trained with deep reinforcement learning—to study natural behaviors and the neural dynamics that generate them. Like [digital twins](https://en.wikipedia.org/wiki/Digital_twin), these models can be used to quickly test hypotheses in simulation, while maintaining full observability.  
-* I also develop **theoretical and methodological tools** to interpret these agents, and apply the broader ML/AI/Simulation/Data Science toolbox to problems in **health, biology, and medicine**.  
+I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory**, **Natural & Artificial Intelligence**, **Data and Simulation Science**, and **applications in Computational Biology, Medicine, and Bio/Neuroengineering**.  
+
+* I build and analyze **agent-based models**—recurrent neural network (RNN) controllers trained with deep reinforcement learning—to study natural behaviors and the neural dynamics that generate them. Like [digital twins](https://en.wikipedia.org/wiki/Digital_twin), these models enable rapid hypothesis testing in silico while maintaining full observability.  
+* I develop **theoretical and methodological tools** to interpret, compare, and constrain RNNs and DeepRL-trained agents using ideas from dynamical systems theory, neuroscience, and AI interpretability.  
+* I apply the broader **machine learning, simulation, and data science** toolbox to problems in **health, biology, and medicine**, including applications in mental health, cardiology, and genomics.  
 * For a complete list of my publications and patents, visit my **[Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)**.
 
 

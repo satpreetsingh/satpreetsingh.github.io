@@ -60,8 +60,8 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 **Goal:** **Reliable, interpretable AI** and simulation for **clinical & biological** questions.
 
 - **Naturalistic Motor Neuroscience** — *long-term neural + video; behavior mining*  
-  *Singh SH et al.*, **J. Neuroscience Methods (2021)** — **[article](https://www.sciencedirect.com/science/article/pii/S0165027021001345)**, **[preprint](https://arxiv.org/abs/2001.08349)**, **[code/data/videos](https://github.com/BruntonUWBio/mining2021)**  
-  Follow-ups: **[eNeuro (2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract)** (joint 1st), **[Nature Scientific Data (2022)](https://www.nature.com/articles/s41597-022-01280-y)**, **[J. Neural Engineering (2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta)**  
+  * *Singh SH et al.*, **J. Neuroscience Methods (2021)** — **[article](https://www.sciencedirect.com/science/article/pii/S0165027021001345)**, **[preprint](https://arxiv.org/abs/2001.08349)**, **[code/data/videos](https://github.com/BruntonUWBio/mining2021)**  
+  * Follow-ups: **[eNeuro (2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract)** (joint 1st), **[Nature Scientific Data (2022)](https://www.nature.com/articles/s41597-022-01280-y)**, **[J. Neural Engineering (2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta)**  
   <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/mining2021/master/right_only_1x4_boomerang.gif" alt="Wrist Motion" /></div>
 
 - **AI for Mental Health — RACER** — *auditable LLM analysis of semi-structured interviews*  
@@ -70,7 +70,7 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 - **AI in Cardiology** — *ensemble based uncertainty quantification for pediatric ICU arrhythmia detection*  
   **Heart Rhythm O2 (2024)** — **[PubMed](https://pubmed.ncbi.nlm.nih.gov/39119021/)**
 
-- **Multi-Omic Cancer Progression (MDS)** — *liquid biopsy marker progression for MDS*  
+- **Multi-Omic Cancer Progression (Myelodysplastic Syndrome)** — *liquid biopsy marker progression for MDS*  
   **Experimental Hematology (2024 abstract)** — **[link](https://www.sciencedirect.com/science/article/pii/S0301472X24002261)**
 
 - **GRN Evolution** — *simulation study: promiscuity drives adaptation in GRNs*  

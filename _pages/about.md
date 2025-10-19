@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-# About Me  
-
-> 🧭 *Currently on the job market for Assistant Professor and Research Scientist positions. See my [Research page](research/) for ongoing projects.*
+> 🧭 *Currently on the job market for Assistant Professor and Research Scientist positions. See my [Research page](research/) for more details!* 
 
 ---
 
@@ -26,14 +24,13 @@ a **Data Scientist** at [LinkedIn](https://engineering.linkedin.com/teams/data) 
 a **Machine Learning Engineer / Product Manager** at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/);  
 a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Robotics Intern** at [Systemantics](http://www.systemantics.com).  
 
-My work explores how intelligent behavior and neural computation emerge in natural and artificial agents, using deep reinforcement learning, dynamical-systems analysis, and cross-disciplinary applications in neuroscience and medicine.
 
 ---
 
 ## Contact
-- 📧 **Email:** satpreetsingh [at] gmail [dot] com  |  satpreet_singh [at] hms [dot] harvard [dot] edu  
-- 🔗 **Profiles:** [LinkedIn](https://www.linkedin.com/in/satpreetsingh) | [Twitter/X](https://twitter.com/tweetsatpreet)  
-- 📄 **Research & Code:** [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en) | [GitHub](https://github.com/satpreetsingh) | [ORCID](https://orcid.org/0000-0003-1867-4401)  
+- 📧 **Email:** satpreetsingh[at]gmail[dot]com  OR  satpreet_singh[at]hms[dot]harvard[dot]edu  
+- 🔗 **Profiles:** [LinkedIn](https://www.linkedin.com/in/satpreetsingh), [Twitter/X](https://twitter.com/tweetsatpreet)  
+- 📄 **Research & Code:** [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)  
 - 💬 **Feedback:** [Anonymous message box](https://www.admonymous.co/satpreetsingh)
 
 ---

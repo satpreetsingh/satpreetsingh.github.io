@@ -32,8 +32,9 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
   <div align="center"><img src="/files/Bots_20250922.gif" alt="Zebrafish" /></div>
 
 - **Turbulent Plume Tracking Agents** — *insect-like navigation with DRL RNNs*  
-  *Singh SH et al.*, **Nature Machine Intelligence (2023)** — **[article](https://www.nature.com/articles/s42256-022-00599-w)** (Cover)  
+  *Singh SH et al.*, **[Nature Machine Intelligence (2023) (Cover Feature)](https://www.nature.com/articles/s42256-022-00599-w)**   
   Extras: **[More behavior+neural animations](https://github.com/BruntonUWBio/plumetracknets)**, **[preprint](https://arxiv.org/abs/2109.12434)**  
+  <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/plumetracknets/refs/heads/main/supp/3307e9/noisy3x5b5_HOME_merged_common_ep159.gif" alt="Video" /></div>
   <div align="center"><img src="/files/nmi_cover.png" alt="NMI Cover" /></div>
 
 ---

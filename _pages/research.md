@@ -8,9 +8,9 @@ redirect_from:
 
 ## Overview
 I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory**, **Natural & Artificial Intelligence**, and **applications in Computational Biology, Medicine, and Neuroengineering**.  
-I build and analyze **agent-based models**—recurrent neural network (RNN) controllers trained with deep reinforcement learning—to study natural behaviors and the neural dynamics that generate them.  
-I also develop theoretical and methodological tools to interpret these agents, and apply similar frameworks to problems in health, biology, and medicine.  
-For a complete list of my publications and patents, visit my **[Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)**.
+* I build and analyze **agent-based models**—recurrent neural network (RNN) controllers trained with deep reinforcement learning—to study natural behaviors and the neural dynamics that generate them. Like [digital twins](https://en.wikipedia.org/wiki/Digital_twin), these models can be used to quickly test hypotheses in simulation, while maintaining full observability.  
+* I also develop **theoretical and methodological tools** to interpret these agents, and apply the broader ML/AI/Simulation/Data Science toolbox to problems in **health, biology, and medicine**.  
+* For a complete list of my publications and patents, visit my **[Google Scholar profile](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)**.
 
 
 ***
@@ -19,12 +19,14 @@ For a complete list of my publications and patents, visit my **[Google Scholar p
 
 **Goal:** Use deep reinforcement-learning (DeepRL) agents as computational models of animals, to uncover how intelligent behavior and neural computation emerge from experience and embodiment.  
 
-- **Active Electrosensing and Collective Behavior**  
-  Studying weakly electric fish as inspiration for social sensing and communication.  
-  *Singh SH et al.*, *In prep.* — “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  
+- **Active Electrosensing & Collective Behavior** — *social sensing in fish-inspired agents*  
+  *Singh SH et al.*, **In prep.** “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  **[NeurIPS'25 AniComm Workshop](https://openreview.net/forum?id=cE07Ac7UWx)** 
   <div align="center"><img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish" /></div>
+  - *RLC’24 Interpretable Policies Workshop* — **[paper](https://openreview.net/forum?id=FX7YtfEYj8)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)**  
+  — **[Unsupervised Machine Translation with MARL](https://openreview.net/forum?id=253mXeGo9Z)**  
+  — **[Source Separation](https://openreview.net/forum?id=RelIvm178s)**
 
- **Hunting in Zebrafish** — *DeepRL RNNs dissect larval hunting*  
+- **Hunting in Zebrafish** — *DeepRL RNNs dissect larval hunting*  
   *Malik R, Singh SH, Johnson-Yu S, et al.* (2025) “Dissecting Larval Zebrafish Hunting using Deep RL RNN Agents.”  
   **NeurIPS 2025 AI4Science (Spotlight)** — **[OpenReview](https://openreview.net/forum?id=3kiCmoOQz7#discussion)**, **[Updated preprint](https://arxiv.org/abs/2510.03699)**  
   <div align="center"><img src="/files/Bots_20250922.gif" alt="Zebrafish" /></div>

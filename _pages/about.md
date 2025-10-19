@@ -14,9 +14,7 @@ redirect_from:
 
 Welcome! I am an **Alice and Joseph Brooks Postdoctoral Fellow** in [Kanaka Rajan’s AI + Neurotheory Lab](https://twitter.com/KanakaRajanPhD) at the [Harvard Medical School](https://neuro.hms.harvard.edu) and the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/).  
 
-Previously, I spent a year applying AI to biology and medicine in [Ankit Patel’s Lab](https://ankitlab.co) at the [Baylor College of Medicine](https://www.bcm.edu) / [Rice University](https://www.rice.edu) in Houston, TX.  
-I completed my PhD in December 2021 at the [University of Washington (Seattle)](https://www.ece.uw.edu), where my research bridged **Machine / Reinforcement Learning** and **Computational Neuroscience**.  
-Before that, I earned an MS in Computer Science from [Oregon State University](https://eecs.oregonstate.edu) and an MS in Electrical & Computer Engineering from the [University of Iowa](https://ece.engineering.uiowa.edu).  
+Previously, I spent a year applying AI to biology and medicine in [Ankit Patel’s Lab](https://ankitlab.co) at the [Baylor College of Medicine](https://www.bcm.edu) / [Rice University](https://www.rice.edu) in Houston, TX.  I completed my PhD in December 2021 at the [University of Washington (Seattle)](https://www.ece.uw.edu), where my research bridged **Machine / Reinforcement Learning** and **Computational Neuroscience**.  Before that, I earned an MS in Computer Science from [Oregon State University](https://eecs.oregonstate.edu) and an MS in Electrical & Computer Engineering from the [University of Iowa](https://ece.engineering.uiowa.edu).  
 
 I have also worked in industry for about five years:  
 as a **Research Scientist in Machine Learning** at Meta’s [Probability Team](https://research.facebook.com/teams/probability/);  

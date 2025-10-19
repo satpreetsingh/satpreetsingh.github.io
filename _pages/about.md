@@ -16,24 +16,26 @@ Previously, I spent a year applying AI to Biology and Medicine at [Ankit Patel](
 
 I have worked in industry for about 5 years, including most recently as a Research Scientist in Machine Learning at Meta's [Probability](https://research.facebook.com/teams/probability/) team, a Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) (now Microsoft), a ML Software Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/), a (semiconductor) Design Engineer at [Texas Instruments](https://www.ti.com) and a Robotics Intern at [Systemantics](http://www.systemantics.com).   
 
-
-## News
-* Sept 2025: Paper on [Degneracy in RNN solutions](https://arxiv.org/abs/2410.03972) selected for Spotlight at NeurIPS 2025!
-* Sept 2025: Paper on DeepRL Zebrafish Agents accepted to AI4Science Workshop at NeurIPS 2025.
-* June 2025: [RLDM 2025 Spotlight talk](https://rldm.org/program-2025/) on our work on MARL for Weakly Electric Fish Collectives. 
-* May 2nd 2025: Delivered the ["Pizza talk" at Harvard Medical School](https://neuro.hms.harvard.edu/events?trumbaEmbed=view%3Devent%26eventid%3D173874342) for the Rajan lab on our ongoing work on multi-agent electrosensing collectives
-* April 2025: Presented my work on [plume tracking agents](https://www.nature.com/articles/s42256-022-00599-w) at the [Collectively Emerged Timescales Workshop](https://www.cosyne.org/workshops-program-2025) at COSYNE 2025
-* April 2025: Organized the first workshop on [Agent-Based Models in Neuroscience:
-Complex Planning, Embodiment and Beyond](https://neuro-agent-models.github.io) at COSYNE 2025 (Talk recordings uploaded!).
-* March 2025: Awarded the Alice and Joseph Brooks Fund Postdoctoral Fellowship (2025-26) at Harvard Medical School.
-
 ## Contact
 - 📧 Email: satpreetsingh[at]gmail[dot]com OR satsingh[at]uw[dot]edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/satpreetsingh) 
  [Twitter](https://twitter.com/tweetsatpreet)  
-- 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)  
+- 📄 Research & Code: [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401  
 - 📝 [Anonymous feedback!](https://www.admonymous.co/satpreetsingh)  
 
+
+
+## News
+* Oct 2025: Three abstracts accepted to the NeurIPS 2025 Workshop AI For Non-Human Animal Communication. One on [MARL for Weakly Electric Fish](https://openreview.net/forum?id=cE07Ac7UWx), one on [Unsupervised Machine Translation with MARL](https://openreview.net/forum?id=253mXeGo9Z), and one on [Source Separation](https://openreview.net/forum?id=RelIvm178s). 
+* Sept 2025: Paper on [Degneracy in RNN solutions](https://arxiv.org/abs/2410.03972) _Accepted with Spotlight_ at NeurIPS 2025!
+* Sept 2025: Paper on [Hunting Zebrafish DeepRL Agents](https://openreview.net/forum?id=3kiCmoOQz7#discussion) [[Updated Preprint](https://arxiv.org/abs/2510.03699)] _Accepted with Spotlight_ to AI4Science Workshop at NeurIPS 2025.   
+* June 2025: [RLDM 2025 Spotlight talk](https://rldm.org/program-2025/) on our work on MARL for Weakly Electric Fish Collectives. 
+* May 2nd 2025: Delivered the ["Pizza talk" at Harvard Medical School](https://x.com/KanakaRajanPhD/status/1918368968416653774) for the Rajan lab on our ongoing work on multi-agent electrosensing collectives
+* April 2025: Presented my work on [plume tracking agents](https://www.nature.com/articles/s42256-022-00599-w) at the [Collectively Emerged Timescales Workshop](https://www.cosyne.org/workshops-program-2025) at COSYNE 2025
+* April 2025: Organized the first workshop on [Agent-Based Models in Neuroscience:
+Complex Planning, Embodiment and Beyond](https://neuro-agent-models.github.io) at COSYNE 2025 (Talk recordings uploaded!).
+* March 2025: Awarded the Alice and Joseph Brooks Fund Postdoctoral Fellowship (2025-26) at Harvard Medical School.
+<!-- * August 2024: Two workshop talks at the First Reinforcement Learning Conference at UMass, Amherst, MA. One on ["Learning Dynamics and the Geometry of Neural Dynamics in Recurrent Neural Controllers."](https://openreview.net/forum?id=SbbpTtB6B4) and ["Understanding biological active sensing behaviors by interpreting learned artificial agent policies."](https://openreview.net/forum?id=FX7YtfEYj8) at the *Workshop on Interpretable Policies in Reinforcement Learning@ RLC-2024*  -->
 
 ## Random Links
 - [ML/AI deadlines ⏰](https://aideadlin.es/?sub=ML)  

@@ -99,3 +99,20 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 - **LinkedIn Data-Science Patents** — *matching, networking, growth* — **[patents (Scholar)](https://scholar.google.com/citations?hl=en&user=S6wyhngAAAAJ&view_op=list_works&sortby=pubdate)**
 
 ---
+
+<!-- Default Statcounter code for Personal
+http://satpreetsingh.github.io -->
+<script type="text/javascript">
+var sc_project=13020034; 
+var sc_invisible=1; 
+var sc_security="69b15dcb"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13020034/0/69b15dcb/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>

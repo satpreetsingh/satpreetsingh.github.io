@@ -19,12 +19,11 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 **Goal:** Use deep reinforcement-learning (DeepRL) agents as computational models of animals, to uncover how intelligent behavior and neural computation emerge from experience and embodiment.  
 
-- **Active Electrosensing & Collective Behavior** — *social sensing in fish-inspired agents*  
+- **Active Electrosensing & Collective Behavior** — *electrocommunication and social sensing in fish-inspired agents*  
   *Singh SH et al.*, **In prep.** “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  **[NeurIPS'25 AniComm Workshop](https://openreview.net/forum?id=cE07Ac7UWx)** 
   <div align="center"><img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish" /></div>
   - *RLC’24 Interpretable Policies Workshop* — **[paper](https://openreview.net/forum?id=FX7YtfEYj8)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)**  
-  — **[Unsupervised Machine Translation with MARL](https://openreview.net/forum?id=253mXeGo9Z)**  
-  — **[Source Separation](https://openreview.net/forum?id=RelIvm178s)**
+  - Upcoming/Related: **[Unsupervised Machine Translation with MARL](https://openreview.net/forum?id=253mXeGo9Z)**, **[Source Separation](https://openreview.net/forum?id=RelIvm178s)** (NeurIPS'25 AniComm Workshop)
 
 - **Hunting in Zebrafish** — *DeepRL RNNs dissect larval hunting*  
   *Malik R, Singh SH, Johnson-Yu S, et al.* (2025) “Dissecting Larval Zebrafish Hunting using Deep RL RNN Agents.”  
@@ -63,19 +62,19 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
   Follow-ups: **[eNeuro (2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract)** (joint 1st), **[Nature Scientific Data (2022)](https://www.nature.com/articles/s41597-022-01280-y)**, **[J. Neural Engineering (2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta)**  
   <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/mining2021/master/right_only_1x4_boomerang.gif" alt="Wrist Motion" /></div>
 
-- **AI for Mental Health — RACER** — *auditable LLM analysis of interviews*  
+- **AI for Mental Health — RACER** — *auditable LLM analysis of semi-structured interviews*  
   **EMNLP 2024 NLP4Science Workshop** — **[paper](https://aclanthology.org/2024.nlp4science-1.8/)**
 
-- **AI in Cardiology** — *multimodal pediatric ICU arrhythmia detection*  
+- **AI in Cardiology** — *ensemble based uncertainty quantification for pediatric ICU arrhythmia detection*  
   **Heart Rhythm O2 (2024)** — **[PubMed](https://pubmed.ncbi.nlm.nih.gov/39119021/)**
 
-- **Multi-Omic Cancer Progression (MDS)** — *liquid biopsy markers for MDS*  
+- **Multi-Omic Cancer Progression (MDS)** — *liquid biopsy marker progression for MDS*  
   **Experimental Hematology (2024 abstract)** — **[link](https://www.sciencedirect.com/science/article/pii/S0301472X24002261)**
 
-- **GRN Evolution** — *promiscuity drives adaptation in GRNs*  
+- **GRN Evolution** — *simulation study: promiscuity drives adaptation in GRNs*  
   **ALIFE 2023** — **“Binding Affinity Distributions Drive Adaptation in GRN Evolution”** **[paper](https://direct.mit.edu/isal/proceedings/isal/35/89/116839)**
 
-- **Cerenkov** — *noncoding regulatory variome*  
+- **Cerenkov** — *positive + unlabled supervised learning for noncoding regulatory variome*  
   **ACM BCB 2017** — **[paper](https://par.nsf.gov/biblio/10049769)**
 
 ---

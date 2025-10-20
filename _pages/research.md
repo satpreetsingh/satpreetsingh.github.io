@@ -40,9 +40,9 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 ---
 
-## ⚙️ Theory of RNN Agents: Dynamics, Degeneracy, and Interpretability
+## ⚙️ Theory of Neural Networks & Agents: Dynamics, Degeneracy, Trust and Interpretability
 
-**Goal:** Tools to **interpret/compare/constrain** RL-trained RNNs via **dynamical-systems** and **neuroscience**.
+**Goal:** Build a theoretical foundation to **interpret, compare, and constrain** Deep RL–trained RNNs through **dynamical-systems** and **neuroscientific** principles, advancing their **trustworthiness, stability, and interpretability**.
 
 - **Solution Degeneracy in Task-Trained RNNs** — *control & quantify many-to-one solutions*  
   *Huang AH, Singh SH, Rajan K.* (2025) **NeurIPS 2025 Spotlight** — **[arXiv](https://arxiv.org/abs/2410.03972)**

@@ -17,7 +17,7 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 ***
 
-## 🧠 Agents for Neuroscience and Natural Behavior
+## 🧠 Agents for Neuroscience and Natural Behavior (Digital-Twins)
 
 **Goal:** Use deep reinforcement-learning (DeepRL) agents as computational models of animals, to uncover how intelligent behavior and neural computation emerge from experience and embodiment.  
 

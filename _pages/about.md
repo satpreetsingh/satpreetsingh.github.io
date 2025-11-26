@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-> 🧭 *Currently on the job market for Assistant Professor and Research Scientist positions. See my [Research page](research/) for more details!* 
+> 🧭 *Currently on the job market. See my [Research page](research/) for more details!* 
 
 ---
 

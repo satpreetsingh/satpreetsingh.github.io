@@ -27,7 +27,7 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 
 ## Contact
 - 📧 **Email:** satpreetsingh[at]gmail[dot]com  OR  satpreet_singh[at]hms[dot]harvard[dot]edu  
-- 🔗 **Profiles:** [LinkedIn](https://www.linkedin.com/in/satpreetsingh), [Twitter/X](https://twitter.com/tweetsatpreet)  
+- 🔗 **Social:** [LinkedIn](https://www.linkedin.com/in/satpreetsingh), [Twitter/X](https://twitter.com/tweetsatpreet), [BlueSky](https://bsky.app/profile/satpreetsingh.bsky.social)   
 - 📄 **Research & Code:** [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en), [GitHub](https://github.com/satpreetsingh), [ORCID](https://orcid.org/0000-0003-1867-4401)  
 - 💬 **Feedback:** [Anonymous message box](https://www.admonymous.co/satpreetsingh)
 

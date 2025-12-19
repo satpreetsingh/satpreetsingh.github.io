@@ -50,13 +50,13 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 **Goal:** Build a theoretical foundation to **interpret, compare, and constrain** Deep RL–trained RNNs through **dynamical-systems** and **neuroscientific** principles, advancing their **trustworthiness, stability, and interpretability**. 
 
 - **Solution Degeneracy in Task-Trained RNNs** — *control & quantify many-to-one solutions*  
-  *Huang AH, Singh SH, Rajan K.* (2025) **[NeurIPS 2025 Spotlight](https://arxiv.org/abs/2410.03972)**
+  *Huang AH, Singh SH, Rajan K.* (2025) **[NeurIPS 2025 (Spotlight)](https://arxiv.org/abs/2410.03972)**
 
 - **InputDSA** — *demix recurrent vs input-driven dynamics*  
   *Huang AH, Ostrow M, Singh SH, et al.* ** Under review [Preprint](https://arxiv.org/abs/2510.25943)** — **Demixing then Comparing Recurrent and Externally Driven Dynamics** 
 
 - **Geometry of Neural Dynamics in Controllers** — *learning-dynamics lens on RNNs*  
-  *Huang AH, Singh SH, et al.* (2024) **RLC’24 Interpretable Policies Workshop Talk** — **[paper](https://openreview.net/forum?id=SbbpTtB6B4)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)**
+  *Huang AH, Singh SH, et al.* (2024) **RLC’24 Interpretable Policies Workshop (Talk)** — **[paper](https://openreview.net/forum?id=SbbpTtB6B4)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)**
 
 ---
 

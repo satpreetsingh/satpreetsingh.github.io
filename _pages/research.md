@@ -19,39 +19,44 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 ## 🧠 Agents for Neuroscience and Natural Behavior (Digital-Twins)
 
-**Goal:** Use deep reinforcement-learning (DeepRL) agents as computational models of animals, to uncover how intelligent behavior and neural computation emerge from experience and embodiment.  
+**Goal:** Use deep reinforcement-learning (DeepRL) agents as computational models of animals, to uncover how intelligent behavior and neural computation emerge from experience and embodiment, and leverage this understanding to cross-pollinate ideas between AI and neuroscience.. 
 
 - **Active Electrosensing & Collective Behavior** — *electrocommunication and social sensing in fish-inspired agents*  
-  *Singh SH et al.*, **In prep.** “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  **[NeurIPS'25 AniComm Workshop](https://openreview.net/forum?id=cE07Ac7UWx)** 
+  *Singh SH et al.*, “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  **[NeurIPS'25 AniComm Workshop (Paper)](https://openreview.net/forum?id=cE07Ac7UWx)** **RLDM 2025 (Contributed Talk)** 
   <div align="center"><img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish" /></div>
   - *RLC’24 Interpretable Policies Workshop* — **[paper](https://openreview.net/forum?id=FX7YtfEYj8)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)**  
-  - Upcoming/Related: **[Unsupervised Machine Translation with MARL](https://openreview.net/forum?id=253mXeGo9Z)**, **[Source Separation](https://openreview.net/forum?id=RelIvm178s)** (NeurIPS'25 AniComm Workshop)
+  - Upcoming/Related: 
+    **[Proposal: Unsupervised Machine Translation of electro-communication with MARL](https://openreview.net/forum?id=253mXeGo9Z)**
+    **[Method: Physics-model based Source Separation](https://openreview.net/forum?id=RelIvm178s)** (NeurIPS'25 AniComm Workshop)
 
 - **Hunting in Zebrafish** — *DeepRL RNNs dissect larval hunting*  
   *Malik R, Singh SH, Johnson-Yu S, et al.* (2025) “Dissecting Larval Zebrafish Hunting using Deep RL RNN Agents.”  
-  **NeurIPS 2025 AI4Science (Spotlight)** — **[OpenReview](https://openreview.net/forum?id=3kiCmoOQz7#discussion)**, **[Updated preprint](https://arxiv.org/abs/2510.03699)**  
+  **[NeurIPS 2025 AI4Science (Spotlight)](https://openreview.net/forum?id=3kiCmoOQz7#discussion)**, **[Preprint (In revision)](https://arxiv.org/abs/2510.03699)**  
   <div align="center"><img src="/files/Bots_20250922.gif" alt="Zebrafish" /></div>
 
 - **Turbulent Plume Tracking Agents** — *insect-like navigation with DRL RNNs*  
   *Singh SH et al.*, **[Nature Machine Intelligence (2023) (Cover Feature)](https://www.nature.com/articles/s42256-022-00599-w)**   
-  Extras: **[More behavior+neural animations](https://github.com/BruntonUWBio/plumetracknets)**, **[preprint](https://arxiv.org/abs/2109.12434)**  
+  Extras: **[More behavior+neural animations](https://github.com/BruntonUWBio/plumetracknets)**, **[Preprint](https://arxiv.org/abs/2109.12434)**  
   <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/plumetracknets/refs/heads/main/supp/3307e9/noisy3x5b5_HOME_merged_common_ep159.gif" alt="Video" /></div>
   <div align="center"><img src="/files/nmi_cover.png" alt="NMI Cover" /></div>
+
+- **Essay: Neuroprospecting with DeepRL agents** - *how Neuroscience can benefit from AI, and how AI can 'prospect' for algorithmic solutions to hard problems by studying nature*
+  *Singh SH* **[AI for Science Workshop, NeurIPS 2021](https://openreview.net/pdf?id=5Q-sYQ9tD5j)**
 
 ---
 
 ## ⚙️ Theory of Neural Networks & Agents: Dynamics, Degeneracy, Trust and Interpretability
 
-**Goal:** Build a theoretical foundation to **interpret, compare, and constrain** Deep RL–trained RNNs through **dynamical-systems** and **neuroscientific** principles, advancing their **trustworthiness, stability, and interpretability**.
+**Goal:** Build a theoretical foundation to **interpret, compare, and constrain** Deep RL–trained RNNs through **dynamical-systems** and **neuroscientific** principles, advancing their **trustworthiness, stability, and interpretability**. 
 
 - **Solution Degeneracy in Task-Trained RNNs** — *control & quantify many-to-one solutions*  
-  *Huang AH, Singh SH, Rajan K.* (2025) **NeurIPS 2025 Spotlight** — **[arXiv](https://arxiv.org/abs/2410.03972)**
+  *Huang AH, Singh SH, Rajan K.* (2025) **[NeurIPS 2025 Spotlight](https://arxiv.org/abs/2410.03972)**
 
 - **InputDSA** — *demix recurrent vs input-driven dynamics*  
-  *Huang AH, Ostrow M, Singh SH, et al.* **Submitted** — **Demixing then Comparing Recurrent and Externally Driven Dynamics** (preprint link forthcoming)
+  *Huang AH, Ostrow M, Singh SH, et al.* ** Under review [Preprint](https://arxiv.org/abs/2510.25943)** — **Demixing then Comparing Recurrent and Externally Driven Dynamics** 
 
 - **Geometry of Neural Dynamics in Controllers** — *learning-dynamics lens on RNNs*  
-  *Huang AH, Singh SH, et al.* (2024) **RLC’24 Interpretable Policies Workshop** — **[paper](https://openreview.net/forum?id=SbbpTtB6B4)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)**
+  *Huang AH, Singh SH, et al.* (2024) **RLC’24 Interpretable Policies Workshop Talk** — **[paper](https://openreview.net/forum?id=SbbpTtB6B4)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)**
 
 ---
 
@@ -85,7 +90,7 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 **Goal:** **Uncertainty-aware** and **interpretable** ML for real-world decision-making.
 
-- **Meta AI (Probability Team)** — *UQ & Bayesian experimentation (2022)*  
+- **Meta AI (Probability Team)** — *Uncertainty Quantification & Bayesian experimentation (2022)*  
   Topics: Deep Ensembles, MC Dropout; Bayesian online experiments via **[Bean Machine](https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/)**  
   Team: **[Meta Probability](https://research.facebook.com/teams/probability/)**
 

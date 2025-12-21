@@ -44,6 +44,7 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 * **April 2025:** Presented [Plume Tracking Agents](https://www.nature.com/articles/s42256-022-00599-w) at the [Collectively Emerged Timescales Workshop](https://www.cosyne.org/workshops-program-2025) at CoSyNe 2025.  
 * **April 2025:** Organized the first workshop on [Agent-Based Models in Neuroscience: Complex Planning, Embodiment, and Beyond](https://neuro-agent-models.github.io) at CoSyNe 2025 (recordings available).  
 * **March 2025:** Awarded the *Alice and Joseph Brooks Fund Postdoctoral Fellowship (2025–26)* at Harvard Medical School.  
+* **Apr 2024:** Did a talk on my PhD [DeepRL x Flying Insect paper](https://www.nature.com/articles/s42256-022-00599-w) at the [Harvard Medical School RL Seminar](https://www.rlandthebrain.com/hms_seminar)  
 
 ---
 

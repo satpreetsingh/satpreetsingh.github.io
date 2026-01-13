@@ -11,6 +11,9 @@ redirect_from:
 > Gospel of Luke 12:48, 
 inspired by [Eric J Ma's homepage](https://ericmjl.github.io)
 
+# Currently on PAUSE due to overwhelming schedule 
+
+<s>
 # Pro bono consulting/counseling 
 I am offering pro bono (without charge) consulting or counseling sessions of ~30 min duration for anyone who might want to avail of my expertise or experience. 
 ~~NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends~~
@@ -38,6 +41,8 @@ Please send me an email or DM on Twitter, saying that you've read this page and 
 ~~NOTE: Currently on hold while I finish off other projects that are taking up most of my time over the weekends~~
  
 Happy to receive feedback on this page! 
+</s>
+
 
 
 <!-- Default Statcounter code for Personal

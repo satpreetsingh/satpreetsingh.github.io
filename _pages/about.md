@@ -34,6 +34,7 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 ---
 
 ## News
+* **Jan 2026**: [InputDSA](https://arxiv.org/abs/2510.25943) accepted to [ICLR 2026](https://openreview.net/forum?id=2FrAvRz1E7)!!
 * **Dec 2025**: Our submission titled [InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics](https://arxiv.org/abs/2510.25943) got selected for a *spotlight talk* at [CoSyNe 2026](https://www.cosyne.org)!! [Weakly Electric Fish MARL agents](https://openreview.net/forum?id=cE07Ac7UWx) accepted as a poster!
 * **Dec 2025**: Delivered a Harvard Center for Brain Science (CBS) [Neurolunch talk](https://cbs.fas.harvard.edu/calendar_event/neurolunch-satpreet-singh-rajan-lab/)
 * **Nov 2025**: Our workshop on "Agent-based Models in Neuroscience: Theory, Autonomy, Embodiment and Environment" was accepted to [CoSyNe 2026](https://www.cosyne.org)! Organizing team: myself, [Aran Nayebi (CMU)](https://x.com/aran_nayebi) and [Elliott Abe (UW)](https://x.com/elliott_abe).

@@ -23,7 +23,15 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 - **Active Electrosensing & Collective Behavior** — *electrocommunication and social sensing in fish-inspired agents*  
   *Singh SH et al.*, “Active Electrosensing and Emergent Communication in Artificial Fish Collectives.”  **[NeurIPS'25 AniComm Workshop (Paper)](https://openreview.net/forum?id=cE07Ac7UWx)** **RLDM 2025 (Contributed Talk)** 
-  <div align="center"><img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish" /></div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
+    <img src="/files/MAFish_20250109_183556_58206857_5sec.gif" alt="Weakly Electric Fish Collective" style="max-width: 48%;" />
+    <img src="/files/MAFish_behavior_20251003_094741_collision-25_nobots_0_arena.gif" alt="WEF arena behavior" style="max-width: 48%;" />
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 8px;">
+    <img src="/files/wef3d_swim_forward_side_cropped.gif" alt="WEF 3D swim forward" style="max-width: 32%;" />
+    <img src="/files/wef3d_turns_learned_cropped.gif" alt="WEF 3D learned turns" style="max-width: 32%;" />
+    <img src="/files/wef3d_nose_yaw_demo_sensors_cropped.gif" alt="WEF 3D nose yaw sensors" style="max-width: 32%;" />
+  </div>
   - *RLC’24 Interpretable Policies Workshop* — **[paper](https://openreview.net/forum?id=FX7YtfEYj8)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-2)**  
   - Upcoming/Related: 
     **[Proposal: Unsupervised Machine Translation of electro-communication with MARL](https://openreview.net/forum?id=253mXeGo9Z)**
@@ -32,7 +40,10 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 - **Hunting in Zebrafish** — *DeepRL RNNs dissect larval hunting*  
   *Malik R, Singh SH, Johnson-Yu S, et al.* (2025) “Dissecting Larval Zebrafish Hunting using Deep RL RNN Agents.”  
   **[NeurIPS 2025 AI4Science (Spotlight)](https://openreview.net/forum?id=3kiCmoOQz7#discussion)**, **[Preprint (In revision)](https://arxiv.org/abs/2510.03699)**  
-  <div align="center"><img src="/files/Bots_20250922.gif" alt="Zebrafish" /></div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
+    <img src="/files/Bots_20250922.gif" alt="Zebrafish hunting agents" style="max-width: 48%;" />
+    <img src="/files/zf4_cropped.gif" alt="Zebrafish hunting closeup" style="max-width: 48%;" />
+  </div>
 
 - **Turbulent Plume Tracking Agents** — *insect-like navigation with DRL RNNs*  
   *Singh SH et al.*, **[Nature Machine Intelligence (2023) (Cover Feature)](https://www.nature.com/articles/s42256-022-00599-w)**   

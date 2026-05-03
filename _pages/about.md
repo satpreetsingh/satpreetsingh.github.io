@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-> 🧭 *Currently on the job market. See my [Research page](research/) for more details!* 
+<!-- > 🧭 *Currently on the job market. See my [Research page](research/) for more details!* 
 
 ---
-
+ -->
 Welcome! I am an **Alice and Joseph Brooks Postdoctoral Fellow** in [Kanaka Rajan’s AI + Neurotheory Lab](https://twitter.com/KanakaRajanPhD) at the [Harvard Medical School](https://neuro.hms.harvard.edu) and the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/).  
 
 Previously, I spent a year applying AI to biology and medicine in [Ankit Patel’s Lab](https://ankitlab.co) at the [Baylor College of Medicine](https://www.bcm.edu) / [Rice University](https://www.rice.edu) in Houston, TX.  I completed my PhD in December 2021 at the [University of Washington (Seattle)](https://www.ece.uw.edu), where my research bridged **Machine / Reinforcement Learning** and **Computational Neuroscience**.  Before that, I earned an MS in Computer Science from [Oregon State University](https://eecs.oregonstate.edu) and an MS in Electrical & Computer Engineering from the [University of Iowa](https://ece.engineering.uiowa.edu).  
@@ -34,6 +34,7 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 ---
 
 ## News
+
 * **Jan 2026**: [InputDSA](https://arxiv.org/abs/2510.25943) accepted to [ICLR 2026](https://openreview.net/forum?id=2FrAvRz1E7)!!
 * **Dec 2025**: Our submission titled [InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics](https://arxiv.org/abs/2510.25943) got selected for a *spotlight talk* at [CoSyNe 2026](https://www.cosyne.org)!! [Weakly Electric Fish MARL agents](https://openreview.net/forum?id=cE07Ac7UWx) accepted as a poster!
 * **Dec 2025**: Delivered a Harvard Center for Brain Science (CBS) [Neurolunch talk](https://cbs.fas.harvard.edu/calendar_event/neurolunch-satpreet-singh-rajan-lab/)

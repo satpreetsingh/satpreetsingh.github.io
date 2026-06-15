@@ -47,9 +47,12 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 - **Turbulent Plume Tracking Agents** — *insect-like navigation with DRL RNNs*  
   *Singh SH et al.*, **[Nature Machine Intelligence (2023) (Cover Feature)](https://www.nature.com/articles/s42256-022-00599-w)**   
-  Extras: **[More behavior+neural animations](https://github.com/BruntonUWBio/plumetracknets)**, **[Preprint](https://arxiv.org/abs/2109.12434)**  
+  Extras: **[More behavior+neural animations](https://github.com/BruntonUWBio/plumetracknets)**, **[Preprint](https://arxiv.org/abs/2109.12434)**, **[Tweeprint](https://twitter.com/tweetsatpreet/status/1442974225032093698)**  
+  Presented at: **[CoSyNe 2022](https://www.cosyne.org/poster-session-3)**, **[RLDM 2022](https://rldm.org/the-5th-multidisciplinary-conference-on-reinforcement-learning-and-decision-making-rldm2022/)**, **[MAIN 2021](https://www.main2021.org/schedule)**, **[NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20)**, **[IROS 2020 Robot-Inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)**, **[ALIFE 2020](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465)**  
   <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/plumetracknets/refs/heads/main/supp/3307e9/noisy3x5b5_HOME_merged_common_ep159.gif" alt="Video" /></div>
   <div align="center"><img src="/files/nmi_cover.png" alt="NMI Cover" /></div>
+  Featured as a canonical NeuroAI example in the **[Neuromatch NeuroAI Summer School](https://www.youtube.com/watch?v=EN89LVVnLbs)** intro lecture.
+  <div align="center"><a href="https://www.youtube.com/watch?v=EN89LVVnLbs&t=1315s"><img src="/files/neuromatch_neuroai_screenshot.png" alt="Neuromatch NeuroAI W1D1 screenshot" style="max-width: 60%;" /></a></div>
 
 - **Essay: Neuroprospecting with DeepRL agents** - *how Neuroscience can benefit from AI, and how AI can 'prospect' for algorithmic solutions to hard problems by studying nature*
   *Singh SH* **[AI for Science Workshop, NeurIPS 2021](https://openreview.net/pdf?id=5Q-sYQ9tD5j)**
@@ -77,7 +80,8 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 
 - **Naturalistic Motor Neuroscience** — *long-term neural + video; behavior mining*  
   * *Singh SH et al.*, **J. Neuroscience Methods (2021)** — **[article](https://www.sciencedirect.com/science/article/pii/S0165027021001345)**, **[preprint](https://arxiv.org/abs/2001.08349)**, **[code/data/videos](https://github.com/BruntonUWBio/mining2021)**  
-  * Follow-ups: **[eNeuro (2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract)** (joint 1st), **[Nature Scientific Data (2022)](https://www.nature.com/articles/s41597-022-01280-y)**, **[J. Neural Engineering (2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta)**  
+  * Follow-ups: **[eNeuro (2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract)** (joint 1st), **[Nature Scientific Data (2022)](https://www.nature.com/articles/s41597-022-01280-y)** (AJILE12 dataset), **[J. Neural Engineering (2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta)**  
+  * AJILE12 used in **[Neuromatch Computational Neuroscience tutorial](https://compneuro.neuromatch.io/projects/ECoG/README.html)** — **[Colab notebook](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/projects/ECoG/exploreAJILE12.ipynb)**  
   <div align="center"><img src="https://raw.githubusercontent.com/BruntonUWBio/mining2021/master/right_only_1x4_boomerang.gif" alt="Wrist Motion" /></div>
 
 - **AI for Mental Health — RACER** — *auditable LLM analysis of semi-structured interviews*  

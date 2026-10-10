@@ -39,7 +39,7 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 
 * **Nov 2026:** Starting my lab at UNC-Chapel Hill, and *likely winding down posting here*. See: [singhlab.cc](https://singhlab.cc/)
 * **Oct 2026:** Co-authored paper on Curriculum Learning in RL accepted at NeurIPS 2026, with John J. Vastola, Ann Huang and Kanaka Rajan.
-* **Oct 2026:** Two extended abstracts accepted to NeurIPS 2026 Workshops (including one first-authored by Linran "Lily" Wei), at the Atlanta, GA conference satellite.
+* **Oct 2026:** Extended abstracts accepted to NeurIPS 2026 Workshops on [Interpretability for Discovery](https://interpretability4discovery.github.io/) and [Developmental Perspectives on AI](https://sites.google.com/view/devai-workshop-2026/) (Catch the first-author Linran "Lily" Wei at Atlanta, GA in December).
 * **Aug 2026:** Two posters at CCN 2026: [Larval zebrafish hunting](https://arxiv.org/abs/2510.03699), accepted to the Proceedings of CCN 2026, and [Zebrafish Collective Behavior](https://openreview.net/forum?id=aAfdfjJ4Bh).
 * **May 2026:** Talk at the Harvard/MIT Workshop on Invented, Constructed, and Emergent Languages in Multi-Agent AI Systems.
 * **May 2026:** Talk with Sonja Johnson-Yu at the Kempner Spring into Science Symposium: "Reverse-engineering natural intelligence in weakly electric fish: a virtual laboratory approach."

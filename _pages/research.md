@@ -6,6 +6,8 @@ redirect_from:
   - /research.html
 ---
 
+> 🎉 *Starting November 2026, I will be an Assistant Professor at UNC-Chapel Hill. For current and upcoming research from my lab, see [singhlab.cc](https://singhlab.cc/).*
+
 ## Overview
 I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory**, **Natural & Artificial Intelligence**, **Data and Simulation Science**, and **applications in Computational Biology, Medicine, and Bio/Neuroengineering**.  
 

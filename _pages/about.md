@@ -12,7 +12,7 @@ redirect_from:
 
 ---
  -->
-> 🎉 *Starting November 2026, I will be an Assistant Professor at [UNC-Chapel Hill](https://sdis.unc.edu/sdss-recruits-fourth-cohort-of-faculty/). Check out my new lab website: [satsinghlab.com](https://satsinghlab.com/)*
+> 🎉 *Starting November 2026, I will be an Assistant Professor at [UNC-Chapel Hill](https://sdis.unc.edu/sdss-recruits-fourth-cohort-of-faculty/). Check out my new lab website: [singhlab.cc](https://singhlab.cc/)*
 
 Welcome! I am an **Alice and Joseph Brooks Postdoctoral Fellow** in [Kanaka Rajan’s AI + Neurotheory Lab](https://twitter.com/KanakaRajanPhD) at the [Harvard Medical School](https://neuro.hms.harvard.edu) and the [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/).  
 

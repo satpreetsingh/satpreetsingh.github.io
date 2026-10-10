@@ -168,6 +168,7 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - CHANGELOG
+  - CLAUDE.md
   - Capfile
   - config
   - Dockerfile

@@ -37,6 +37,14 @@ a **Design Engineer** at [Texas Instruments](https://www.ti.com); and a **Roboti
 
 ## News
 
+* **Nov 2026:** Starting my lab at UNC-Chapel Hill, and *likely winding down posting here*. See: [singhlab.cc](https://singhlab.cc/)
+* **Oct 2026:** Co-authored paper on Curriculum Learning in RL accepted at NeurIPS 2026, with John J. Vastola, Ann Huang and Kanaka Rajan.
+* **Oct 2026:** Two extended abstracts accepted to NeurIPS 2026 Workshops (including one first-authored by Linran "Lily" Wei), at the Atlanta, GA conference satellite.
+* **Aug 2026:** Two posters at CCN 2026: [Larval zebrafish hunting](https://arxiv.org/abs/2510.03699), accepted to the Proceedings of CCN 2026, and [Zebrafish Collective Behavior](https://openreview.net/forum?id=aAfdfjJ4Bh).
+* **May 2026:** Talk at the Harvard/MIT Workshop on Invented, Constructed, and Emergent Languages in Multi-Agent AI Systems.
+* **May 2026:** Talk with Sonja Johnson-Yu at the Kempner Spring into Science Symposium: "Reverse-engineering natural intelligence in weakly electric fish: a virtual laboratory approach."
+* **Apr 2026:** Talk at the Janelia 2026 Conference on "Simulated Bodies: Whole Body Biomechanical Models".
+* **Mar 2026:** Ann and Mitchell delivered the [InputDSA](https://arxiv.org/abs/2510.25943) oral talk at CoSyNe 2026 in Lisbon; co-ran the second [Agent-Based Models in Neuroscience workshop](https://neuro-agent-models.github.io/).
 * **Jan 2026**: [InputDSA](https://arxiv.org/abs/2510.25943) accepted to [ICLR 2026](https://openreview.net/forum?id=2FrAvRz1E7)!!
 * **Dec 2025**: Our submission titled [InputDSA: Demixing then Comparing Recurrent and Externally Driven Dynamics](https://arxiv.org/abs/2510.25943) got selected for a *spotlight talk* at [CoSyNe 2026](https://www.cosyne.org)!! [Weakly Electric Fish MARL agents](https://openreview.net/forum?id=cE07Ac7UWx) accepted as a poster!
 * **Dec 2025**: Delivered a Harvard Center for Brain Science (CBS) [Neurolunch talk](https://cbs.fas.harvard.edu/calendar_event/neurolunch-satpreet-singh-rajan-lab/)

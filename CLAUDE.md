@@ -15,3 +15,4 @@ When a collaborator below is mentioned in site content (e.g. News items in `_pag
 | Ann Huang | https://ann-huang-0.github.io/ |
 | Kanaka Rajan | https://www.rajanlab.com/ |
 | Mitchell Ostrow | https://mitchellostrow.github.io/ |
+| Sam Gershman | https://gershmanlab.com/people/sam.html |

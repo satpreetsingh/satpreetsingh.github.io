@@ -71,6 +71,9 @@ I'm passionate about **Probabilistic Machine Learning**, **Neural Network Theory
 - **InputDSA** — *demix recurrent vs input-driven dynamics*  
   *Huang AH, Ostrow M, Singh SH, et al.* **CoSyNe 2026 (Spotlight Talk), ICLR 2026 (accepted) [ArXiV](https://arxiv.org/abs/2510.25943)** — **Demixing then Comparing Recurrent and Externally Driven Dynamics** 
 
+- **Curriculum Learning in RL** — *when curricula help: reward sparsity & competing optima*  
+  *Vastola JJ, Huang AH, Singh SH, Gershman SJ, Rajan K.* (2026) “Effectiveness of Curriculum Learning Depends on Reward Sparsity and Competing Optima.” **[NeurIPS 2026](https://neurips.cc/virtual/2026/loc/sydney/poster/149082)**, **[OpenReview](https://openreview.net/forum?id=t11t6OT9PS)**
+
 - **Geometry of Neural Dynamics in Controllers** — *learning-dynamics lens on RNNs*  
   *Huang AH, Singh SH, et al.* (2024) **RLC’24 Interpretable Policies Workshop (Talk)** — **[paper](https://openreview.net/forum?id=SbbpTtB6B4)**, **[TalkRL podcast](https://www.talkrl.com/episodes/rlc-2024-posters-and-hallways-1)**
 
